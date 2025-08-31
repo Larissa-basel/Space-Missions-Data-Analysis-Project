@@ -1,0 +1,505 @@
+Mission_id,Mission_name,Destination,Mission_type,Status,launch_date,duration_days,Agency_id
+1,Apollo 7,Low Earth Orbit,Manned,Completed,1968-10-11,4.0,1
+2,Apollo 8,Moon,Manned,Completed,1968-12-21,21.0,1
+3,Apollo 11,Moon,Manned,Completed,1969-07-16,22.0,1
+4,Apollo 12,Moon,Manned,Completed,1969-11-14,23.0,1
+5,Apollo 13,Moon,Manned,Failed,1970-04-11,6.0,1
+6,Apollo 14,Moon,Manned,Completed,1971-01-31,20.0,1
+7,Apollo 15,Moon,Manned,Completed,1971-07-26,8.0,1
+8,Apollo 16,Moon,Manned,Completed,1972-04-16,5.0,1
+9,Apollo 17,Moon,Manned,Completed,1972-12-07,27.0,1
+10,STS-1 Columbia,Low Earth Orbit,Manned,Completed,1981-04-12,3.0,1
+11,STS-31 (Hubble Deploy),Low Earth Orbit,Manned,Completed,1990-04-24,5.0,1
+12,STS-61 (Hubble Servicing 1),Low Earth Orbit,Manned,Completed,1993-12-02,14.0,1
+13,STS-95 Discovery,Low Earth Orbit,Manned,Completed,1998-10-29,7.0,1
+14,STS-107 Columbia,Low Earth Orbit,Manned,Failed,2003-01-16,16.0,1
+15,ISS Expedition 1,Low Earth Orbit,Space Station,Completed,2000-10-31,3.0,1
+16,ISS Expedition 2,Low Earth Orbit,Space Station,Completed,2001-03-08,8.0,1
+17,ISS Expedition 26,Low Earth Orbit,Space Station,Completed,2010-11-26,11.0,2
+18,ISS Expedition 64,Low Earth Orbit,Space Station,Completed,2020-10-14,10.0,2
+19,ISS Expedition 68,Low Earth Orbit,Space Station,Failed,2022-09-21,500.0,3
+20,Voyager 1,Interstellar Space,Deep Space Mission,Completed,1977-09-05,4049.0,3
+21,Voyager 2,Interstellar Space,Deep Space Mission,Completed,1977-08-20,4484.0,3
+22,Pioneer 10,Deep Space,Deep Space Mission,Completed,1972-03-03,4286.0,4
+23,Pioneer 11,Deep Space,Deep Space Mission,Completed,1973-04-06,3857.0,4
+24,New Horizons,Pluto and Kuiper Belt,Deep Space Mission,Completed,2006-01-19,3014.0,4
+25,Juno,Jupiter,Planetary Exploration,Completed,2011-08-05,924.0,4
+26,Dawn,Vesta and Ceres,Planetary Exploration,Completed,2007-09-27,1246.0,4
+27,Cassini–Huygens (NASA/ESA/ASI),Saturn,Planetary Exploration,Completed,1997-10-15,1037.0,5
+28,Viking 1,Mars,Lander,Completed,1975-08-20,270.0,5
+29,Viking 2,Mars,Lander,Completed,1975-09-09,408.0,5
+30,Mars Pathfinder,Mars,Planetary Exploration,Completed,1996-12-04,421.0,5
+31,Spirit (MER-A),Mars,Rover,Completed,2003-06-10,308.0,5
+32,Opportunity (MER-B),Mars,Rover,Completed,2003-07-07,379.0,5
+33,Phoenix Mars Lander,Mars,Lander,Completed,2007-08-04,532.0,5
+34,Curiosity (MSL),Mars,Rover,Completed,2011-11-26,595.0,5
+35,InSight,Mars,Lander,Completed,2018-05-05,551.0,6
+36,Mars 2020 Perseverance,Mars,Rover,Completed,2020-07-30,490.0,6
+37,Artemis I,Moon,Unmanned,Completed,2022-11-16,8.0,6
+38,CAPSTONE,Cislunar,Planetary Exploration,Completed,2022-06-28,25.0,6
+39,Hubble Space Telescope,Low Earth Orbit,Space Telescope,Completed,1990-04-24,5.0,6
+40,Chandra X-ray Observatory,High Earth Orbit,Space Telescope,Failed,1999-07-23,9500.0,7
+41,James Webb Space Telescope,Sun-Earth L2,Space Telescope,Completed,2021-12-25,187.0,7
+42,TESS,High Earth Orbit,Space Telescope,Failed,2018-04-18,2400.0,8
+43,Kepler,Heliocentric Orbit,Space Telescope,Completed,2009-03-07,218.0,8
+44,Spitzer Space Telescope,Heliocentric Orbit,Space Telescope,Completed,2003-08-25,454.0,8
+45,WMAP,Sun-Earth L2,Space Telescope,Completed,2001-06-30,67.0,8
+46,Landsat 8,Sun-Synchronous Orbit,Earth Observation,Failed,2013-02-11,4300.0,8
+47,Landsat 9,Sun-Synchronous Orbit,Earth Observation,Completed,2021-09-27,20.0,8
+48,Terra,Sun-Synchronous Orbit,Earth Observation,Completed,1999-12-18,6.0,8
+49,Aqua,Sun-Synchronous Orbit,Earth Observation,Failed,2002-05-04,8000.0,9
+50,ICESat-2,Sun-Synchronous Orbit,Earth Observation,Completed,2018-09-15,17.0,9
+51,OCO-2,Sun-Synchronous Orbit,Earth Observation,Completed,2014-07-02,14.0,10
+52,Parker Solar Probe,Sun,Deep Space Mission,Completed,2018-08-12,139.0,10
+53,SOHO (NASA/ESA),Sun-Earth L1,Space Telescope,Failed,1995-12-02,10800.0,10
+54,Rosetta,Comet 67P/Churyumov–Gerasimenko,Planetary Exploration,Completed,2004-03-02,1185.0,10
+55,Mars Express,Mars,Planetary Exploration,Completed,2003-06-02,249.0,10
+56,Venus Express,Venus,Planetary Exploration,Completed,2005-11-09,155.0,10
+57,BepiColombo (ESA/JAXA),Mercury,Planetary Exploration,Completed,2018-10-20,116.0,10
+58,JUICE,Jupiter System,Planetary Exploration,Completed,2023-04-14,504.0,10
+59,Gaia,Sun-Earth L2,Space Telescope,Completed,2013-12-19,75.0,10
+60,XMM-Newton,High Earth Orbit,Space Telescope,Failed,1999-12-10,9000.0,10
+61,Herschel Space Observatory,Sun-Earth L2,Space Telescope,Completed,2009-05-14,408.0,11
+62,Planck,Sun-Earth L2,Space Telescope,Completed,2009-05-14,282.0,11
+63,James Webb Space Telescope (with NASA/CSA),Sun-Earth L2,Space Telescope,Failed,2021-12-25,960.0,11
+64,Envisat,Sun-Synchronous Orbit,Earth Observation,Failed,2002-03-01,3700.0,11
+65,CryoSat-2,Sun-Synchronous Orbit,Earth Observation,Completed,2010-04-08,4.0,11
+66,Sentinel-1A,Sun-Synchronous Orbit,Earth Observation,Completed,2014-04-03,19.0,11
+67,Sentinel-1B,Sun-Synchronous Orbit,Earth Observation,Failed,2016-04-25,2300.0,12
+68,Sentinel-2A,Sun-Synchronous Orbit,Earth Observation,Failed,2015-06-23,3200.0,12
+69,Sentinel-2B,Sun-Synchronous Orbit,Earth Observation,Completed,2017-03-07,9.0,12
+70,Sentinel-3A,Sun-Synchronous Orbit,Earth Observation,Failed,2016-02-16,3000.0,12
+71,Sentinel-3B,Sun-Synchronous Orbit,Earth Observation,Completed,2018-04-25,5.0,12
+72,Sentinel-5P,Sun-Synchronous Orbit,Earth Observation,Failed,2017-10-13,2500.0,12
+73,MetOp-A,Sun-Synchronous Orbit,Earth Observation,Completed,2006-10-19,3.0,13
+74,MetOp-B,Sun-Synchronous Orbit,Earth Observation,Completed,2012-09-17,15.0,13
+75,MetOp-C,Sun-Synchronous Orbit,Earth Observation,Completed,2018-11-07,17.0,13
+76,Solar Orbiter (ESA/NASA),Heliocentric Orbit,Deep Space Mission,Completed,2020-02-10,385.0,13
+77,Galileo IOV-1,Medium Earth Orbit,Satellite Deployment,Completed,2011-10-21,14.0,13
+78,Galileo IOV-2,Medium Earth Orbit,Satellite Deployment,Completed,2012-10-12,15.0,13
+79,Galileo FOC Batch 1,Medium Earth Orbit,Satellite Deployment,Completed,2014-08-22,14.0,14
+80,Galileo FOC Batch 2,Medium Earth Orbit,Satellite Deployment,Failed,2015-03-27,3650.0,14
+81,Sputnik 1,Low Earth Orbit,Satellite Deployment,Completed,1957-10-04,1.0,14
+82,Sputnik 2,Low Earth Orbit,Satellite Deployment,Completed,1957-11-03,4.0,14
+83,Sputnik 3,Low Earth Orbit,Satellite Deployment,Completed,1958-05-15,1.0,14
+84,Vostok 1,Low Earth Orbit,Manned,Completed,1961-04-12,13.0,14
+85,Vostok 2,Low Earth Orbit,Manned,Completed,1961-08-06,5.0,15
+86,Vostok 3,Low Earth Orbit,Manned,Completed,1962-08-11,12.0,15
+87,Vostok 4,Low Earth Orbit,Manned,Completed,1962-08-12,6.0,15
+88,Vostok 5,Low Earth Orbit,Manned,Completed,1963-06-14,8.0,15
+89,Vostok 6,Low Earth Orbit,Manned,Completed,1963-06-16,13.0,15
+90,Voskhod 1,Low Earth Orbit,Manned,Completed,1964-10-12,13.0,15
+91,Voskhod 2,Low Earth Orbit,Manned,Completed,1965-03-18,8.0,16
+92,Luna 2,Moon,Lunar Mission,Completed,1959-09-12,11.0,16
+93,Luna 3,Moon,Lunar Mission,Completed,1959-10-04,20.0,16
+94,Luna 9,Moon,Lunar Mission,Completed,1966-01-31,14.0,16
+95,Luna 10,Moon,Lunar Mission,Completed,1966-03-31,14.0,16
+96,Luna 16,Moon,Sample Return,Completed,1970-09-12,12.0,16
+97,Luna 17,Moon,Rover,Completed,1970-11-10,29.0,17
+98,Luna 20,Moon,Sample Return,Completed,1972-02-14,17.0,17
+99,Luna 24,Moon,Sample Return,Completed,1976-08-09,14.0,17
+100,Mars 2,Mars,Planetary Exploration,Failed,1971-05-19,0.0,17
+101,Mars 3,Mars,Planetary Exploration,Completed,1971-05-28,277.0,17
+102,Phobos 1,Mars,Planetary Exploration,Failed,1988-07-07,0.0,17
+103,Phobos 2,Mars,Planetary Exploration,Failed,1988-07-12,57.0,18
+104,Salyut 1,Low Earth Orbit,Space Station,Completed,1971-04-19,10.0,18
+105,Salyut 6,Low Earth Orbit,Space Station,Completed,1977-09-29,4.0,18
+106,Salyut 7,Low Earth Orbit,Space Station,Completed,1982-04-19,3.0,18
+107,Mir EO-1,Low Earth Orbit,Space Station,Completed,1986-03-13,12.0,18
+108,Mir EO-4,Low Earth Orbit,Space Station,Completed,1988-12-21,4.0,18
+109,Mir EO-15,Low Earth Orbit,Space Station,Completed,1993-07-01,1.0,19
+110,Mir EO-28,Low Earth Orbit,Space Station,Completed,2000-04-04,12.0,19
+111,Soyuz 1,Low Earth Orbit,Manned,Failed,1967-04-23,2.0,19
+112,Soyuz 11,Low Earth Orbit,Manned,Failed,1971-06-06,22.0,19
+113,Soyuz TMA-1,Low Earth Orbit,Manned,Completed,2002-10-30,6.0,19
+114,Soyuz MS-10,Low Earth Orbit,Manned,Failed,2018-10-11,0.0,19
+115,Soyuz MS-17,Low Earth Orbit,Manned,Completed,2020-10-14,3.0,20
+116,ISS Expedition 3,Low Earth Orbit,Space Station,Completed,2001-08-10,9.0,20
+117,ISS Expedition 24,Low Earth Orbit,Space Station,Completed,2010-06-15,4.0,20
+118,ISS Expedition 50,Low Earth Orbit,Space Station,Completed,2016-10-19,3.0,20
+119,ISS Expedition 64,Low Earth Orbit,Space Station,Completed,2020-10-14,6.0,20
+120,ISS Expedition 68,Low Earth Orbit,Space Station,Completed,2022-09-21,14.0,20
+121,Dong Fang Hong 1,Low Earth Orbit,Satellite Deployment,Completed,1970-04-24,3.0,21
+122,Shenzhou 1,Low Earth Orbit,Test/Prototype,Completed,1999-11-19,9.0,21
+123,Shenzhou 2,Low Earth Orbit,Unmanned,Completed,2001-01-09,3.0,21
+124,Shenzhou 3,Low Earth Orbit,Unmanned,Completed,2002-03-25,8.0,21
+125,Shenzhou 4,Low Earth Orbit,Unmanned,Completed,2002-12-29,13.0,21
+126,Shenzhou 5,Low Earth Orbit,Manned,Completed,2003-10-15,14.0,21
+127,Shenzhou 6,Low Earth Orbit,Manned,Completed,2005-10-12,6.0,22
+128,Shenzhou 7,Low Earth Orbit,Manned,Completed,2008-09-25,13.0,22
+129,Shenzhou 9,Low Earth Orbit,Manned,Completed,2012-06-16,5.0,22
+130,Shenzhou 10,Low Earth Orbit,Manned,Completed,2013-06-11,5.0,22
+131,Shenzhou 11,Low Earth Orbit,Manned,Completed,2016-10-17,1.0,22
+132,Shenzhou 12,Low Earth Orbit,Manned,Completed,2021-06-17,6.0,22
+133,Shenzhou 13,Low Earth Orbit,Manned,Completed,2021-10-15,12.0,23
+134,Shenzhou 14,Low Earth Orbit,Manned,Completed,2022-06-05,7.0,23
+135,Shenzhou 15,Low Earth Orbit,Manned,Completed,2022-11-29,2.0,23
+136,Shenzhou 16,Low Earth Orbit,Manned,Completed,2023-05-30,7.0,23
+137,Shenzhou 17,Low Earth Orbit,Manned,Completed,2023-10-26,5.0,23
+138,Tiangong-1,Low Earth Orbit,Space Station,Completed,2011-09-29,5.0,23
+139,Tiangong-2,Low Earth Orbit,Space Station,Completed,2016-09-15,14.0,23
+140,Tiangong Space Station Module Tianhe,Low Earth Orbit,Space Station,Completed,2021-04-29,11.0,23
+141,Tiangong Space Station Module Wentian,Low Earth Orbit,Space Station,Completed,2022-07-24,1.0,23
+142,Tiangong Space Station Module Mengtian,Low Earth Orbit,Space Station,Completed,2022-10-31,11.0,23
+143,Chang’e 1,Moon,Lunar Mission,Completed,2007-10-24,15.0,23
+144,Chang’e 2,Moon,Lunar Mission,Completed,2010-10-01,16.0,24
+145,Chang’e 3,Moon,Lunar Mission,Completed,2013-12-01,11.0,25
+146,Chang’e 4,Moon,Lunar Mission,Completed,2018-12-07,21.0,25
+147,Chang’e 5,Moon,Sample Return,Completed,2020-11-23,19.0,25
+148,Chang’e 6,Moon,Sample Return,Completed,2024-05-03,11.0,25
+149,Tianwen-1,Mars,Planetary Exploration,Completed,2020-07-23,593.0,25
+150,Gaofen-1,Sun-Synchronous Orbit,Earth Observation,Completed,2013-04-26,16.0,25
+151,Gaofen-2,Sun-Synchronous Orbit,Earth Observation,Failed,2014-08-19,3800.0,26
+152,Gaofen-4,Geostationary Orbit,Earth Observation,Completed,2015-12-28,12.0,26
+153,Gaofen-7,Sun-Synchronous Orbit,Earth Observation,Completed,2019-11-03,16.0,26
+154,Beidou-3 M1,Medium Earth Orbit,Satellite Deployment,Completed,2015-03-30,3.0,26
+155,Beidou-3 IGSO-1,Inclined Geosynchronous Orbit,Satellite Deployment,Completed,2019-11-05,5.0,26
+156,Beidou-3 GEO-3,Geostationary Orbit,Satellite Deployment,Failed,2020-06-23,1600.0,26
+157,Aryabhata,Low Earth Orbit,Satellite Deployment,Completed,1975-04-19,1.0,27
+158,SLV-3 E1,Low Earth Orbit,Test/Prototype,Failed,1979-08-10,0.0,27
+159,SLV-3 E2,Low Earth Orbit,Test/Prototype,Completed,1980-07-18,12.0,27
+160,INSAT-1A,Geostationary Orbit,Satellite Deployment,Failed,1982-04-10,90.0,27
+161,IRS-1A,Sun-Synchronous Orbit,Earth Observation,Completed,1988-03-17,8.0,27
+162,PSLV-D1,Low Earth Orbit,Test/Prototype,Failed,1993-09-20,0.0,27
+163,PSLV-D2,Sun-Synchronous Orbit,Satellite Deployment,Completed,1994-10-15,8.0,28
+164,Chandrayaan-1,Moon,Lunar Mission,Completed,2008-10-22,6.0,28
+165,Mangalyaan (Mars Orbiter Mission),Mars,Planetary Exploration,Completed,2013-11-05,379.0,28
+166,PSLV-C37,Sun-Synchronous Orbit,Satellite Deployment,Completed,2017-02-15,20.0,28
+167,GSAT-29,Geostationary Orbit,Satellite Deployment,Completed,2018-11-14,13.0,28
+168,Chandrayaan-2,Moon,Lunar Mission,Failed,2019-07-22,48.0,28
+169,PSLV-C51 (Amazonia-1),Sun-Synchronous Orbit,Satellite Deployment,Completed,2021-02-28,11.0,28
+170,Chandrayaan-3,Moon,Lunar Mission,Completed,2023-07-14,24.0,29
+171,Aditya-L1,Sun-Earth L1,Space Telescope,Completed,2023-09-02,191.0,29
+172,Ohsumi,Low Earth Orbit,Satellite Deployment,Completed,1970-02-11,7.0,29
+173,H-IIA F6,Low Earth Orbit,Test/Prototype,Failed,2003-11-29,0.0,29
+174,Hayabusa,Asteroid Itokawa,Planetary Exploration,Completed,2003-05-09,1078.0,29
+175,Kaguya (SELENE),Moon,Lunar Mission,Completed,2007-09-14,5.0,30
+176,Akatsuki,Venus,Planetary Exploration,Completed,2010-05-20,299.0,30
+177,Hayabusa2,Asteroid Ryugu,Sample Return,Completed,2014-12-03,686.0,30
+178,SLIM,Moon,Lunar Mission,Completed,2023-09-07,21.0,30
+179,HTV-1,Low Earth Orbit,Space Station,Completed,2009-09-10,5.0,30
+180,Kibo Module (ISS),Low Earth Orbit,Space Station,Completed,2008-06-03,13.0,30
+181,XRISM,Sun-Earth L1,Space Telescope,Completed,2023-09-06,106.0,31
+182,Alouette 1,Low Earth Orbit,Satellite Deployment,Completed,1962-09-29,11.0,31
+183,Alouette 2,Low Earth Orbit,Satellite Deployment,Completed,1965-11-29,11.0,31
+184,Radarsat-1,Sun-Synchronous Orbit,Earth Observation,Completed,1995-11-04,14.0,31
+185,Radarsat-2,Sun-Synchronous Orbit,Earth Observation,Failed,2007-12-14,5800.0,31
+186,Radarsat Constellation Mission,Sun-Synchronous Orbit,Earth Observation,Completed,2019-06-12,18.0,31
+187,Canadarm (ISS),Low Earth Orbit,Space Station,Completed,1981-11-13,13.0,32
+188,Dextre (ISS),Low Earth Orbit,Space Station,Failed,2008-03-11,5800.0,32
+189,Helios 1,Heliocentric Orbit,Planetary Exploration,Completed,1974-12-10,84.0,33
+190,Helios 2,Heliocentric Orbit,Planetary Exploration,Completed,1976-01-15,195.0,33
+191,Rosetta (ESA mission with DLR contribution),Comet 67P,Planetary Exploration,Completed,2004-03-02,517.0,33
+192,Mars Express (ESA mission with DLR contribution),Mars,Planetary Exploration,Completed,2003-06-02,259.0,33
+193,TerraSAR-X,Sun-Synchronous Orbit,Earth Observation,Completed,2007-06-15,5.0,33
+194,TanDEM-X,Sun-Synchronous Orbit,Earth Observation,Completed,2010-06-21,12.0,33
+195,Eu:CROPIS,Low Earth Orbit,Test/Prototype,Completed,2018-12-03,10.0,33
+196,Astérix,Low Earth Orbit,Satellite Deployment,Completed,1965-11-26,7.0,33
+197,SPOT-1,Sun-Synchronous Orbit,Earth Observation,Completed,1986-02-22,18.0,34
+198,SPOT-5,Sun-Synchronous Orbit,Earth Observation,Completed,2002-05-04,7.0,34
+199,Helios 1A,Sun-Synchronous Orbit,Earth Observation,Completed,1995-07-07,20.0,34
+200,Helios 2B,Sun-Synchronous Orbit,Earth Observation,Completed,2009-12-18,19.0,34
+201,Jason-1,Low Earth Orbit,Earth Observation,Completed,2001-12-07,1.0,34
+202,Jason-3,Low Earth Orbit,Earth Observation,Completed,2016-01-17,14.0,34
+203,SIRIO,Geostationary Orbit,Satellite Deployment,Completed,1977-08-26,12.0,34
+204,BeppoSAX,Low Earth Orbit,Space Telescope,Completed,1996-04-30,14.0,34
+205,COSMO-SkyMed 1,Sun-Synchronous Orbit,Earth Observation,Completed,2007-06-08,17.0,35
+206,COSMO-SkyMed 2,Sun-Synchronous Orbit,Earth Observation,Completed,2007-12-09,4.0,35
+207,COSMO-SkyMed 3,Sun-Synchronous Orbit,Earth Observation,Completed,2008-10-25,12.0,35
+208,COSMO-SkyMed 4,Sun-Synchronous Orbit,Earth Observation,Completed,2010-11-05,14.0,35
+209,AGILE,Low Earth Orbit,Space Telescope,Completed,2007-04-23,9.0,35
+210,Prospero,Low Earth Orbit,Satellite Deployment,Completed,1971-10-28,6.0,35
+211,Skynet 1A,Geostationary Orbit,Satellite Deployment,Completed,1969-11-22,20.0,36
+212,Skynet 1B,Geostationary Orbit,Satellite Deployment,Completed,1970-09-10,20.0,36
+213,Skynet 4A,Geostationary Orbit,Satellite Deployment,Completed,1988-01-01,8.0,36
+214,Skynet 4C,Geostationary Orbit,Satellite Deployment,Completed,1989-12-18,7.0,36
+215,Skynet 5A,Geostationary Orbit,Satellite Deployment,Completed,2007-03-11,18.0,36
+216,Skynet 5B,Geostationary Orbit,Satellite Deployment,Completed,2007-11-14,10.0,36
+217,Skynet 5C,Geostationary Orbit,Satellite Deployment,Completed,2008-06-12,20.0,37
+218,Skynet 5D,Geostationary Orbit,Satellite Deployment,Failed,2012-12-19,4200.0,37
+219,NovaSAR-1,Sun-Synchronous Orbit,Earth Observation,Failed,2018-09-16,2100.0,37
+220,TechDemoSat-1,Low Earth Orbit,Test/Prototype,Completed,2014-07-08,11.0,37
+221,Biomass (ESA Mission),Sun-Synchronous Orbit,Earth Observation,Completed,2024-05-15,11.0,37
+222,Carbonite-2,Low Earth Orbit,Earth Observation,Completed,2018-01-12,2.0,37
+223,Surrey Nanosatellite,Low Earth Orbit,Test/Prototype,Completed,2019-02-28,3.0,38
+224,WRESAT,Low Earth Orbit,Satellite Deployment,Completed,1967-11-29,6.0,38
+225,FedSat,Low Earth Orbit,Satellite Deployment,Completed,2002-12-14,13.0,38
+226,CubeSat Inspire-2,Low Earth Orbit,Satellite Deployment,Completed,2017-04-18,4.0,38
+227,Binar-1,Low Earth Orbit,Test/Prototype,Completed,2021-08-29,6.0,38
+228,CUAVA-1,Low Earth Orbit,Test/Prototype,Completed,2021-08-29,8.0,38
+229,Binar-2,Low Earth Orbit,Test/Prototype,Completed,2023-07-15,14.0,39
+230,Binar-3,Low Earth Orbit,Test/Prototype,Planned,2024-12-01,0.0,39
+231,SpIRIT,Low Earth Orbit,Earth Observation,Completed,2023-12-01,2.0,39
+232,DubaiSat-1,Sun-Synchronous Orbit,Earth Observation,Completed,2009-07-29,8.0,40
+233,DubaiSat-2,Sun-Synchronous Orbit,Earth Observation,Completed,2013-11-21,4.0,40
+234,KhalifaSat,Sun-Synchronous Orbit,Earth Observation,Completed,2018-10-29,20.0,40
+235,Hope Mars Mission,Mars,Planetary Exploration,Completed,2020-07-19,231.0,40
+236,MBR Explorer,Asteroid Belt,Planetary Exploration,Planned,2028-01-01,0.0,40
+237,UAE CubeSat-1,Low Earth Orbit,Satellite Deployment,Completed,2020-02-01,12.0,40
+238,SaudiSat-1A,Low Earth Orbit,Satellite Deployment,Completed,2000-09-26,10.0,40
+239,SaudiSat-1B,Low Earth Orbit,Satellite Deployment,Completed,2000-12-20,7.0,40
+240,SaudiSat-1C,Low Earth Orbit,Satellite Deployment,Completed,2002-06-17,6.0,40
+241,SaudiSat-4,Low Earth Orbit,Satellite Deployment,Completed,2014-06-19,13.0,40
+242,SaudiComSat-1,Low Earth Orbit,Satellite Deployment,Completed,2002-09-17,4.0,41
+243,SGS-1,Geostationary Orbit,Satellite Deployment,Completed,2019-02-05,5.0,41
+244,Falcon 1 Flight 1,Low Earth Orbit,Test/Prototype,Failed,2006-03-24,0.0,41
+245,Falcon 1 Flight 2,Low Earth Orbit,Test/Prototype,Failed,2007-03-21,0.0,41
+246,Falcon 1 Flight 3,Low Earth Orbit,Satellite Deployment,Failed,2008-08-02,0.0,42
+247,Falcon 1 Flight 4,Low Earth Orbit,Satellite Deployment,Completed,2008-09-28,12.0,42
+248,Falcon 1 Flight 5 (RazakSAT),Low Earth Orbit,Satellite Deployment,Completed,2009-07-14,1.0,42
+249,Falcon 9 Flight 1,Low Earth Orbit,Test/Prototype,Completed,2010-06-04,2.0,42
+250,COTS Demo Flight 1,Low Earth Orbit,Space Station,Completed,2010-12-08,1.0,42
+251,COTS Demo Flight 2+,Low Earth Orbit,Space Station,Completed,2012-05-22,9.0,42
+252,CRS-1,Low Earth Orbit,Space Station,Completed,2012-10-08,4.0,42
+253,CRS-2,Low Earth Orbit,Space Station,Completed,2013-03-01,14.0,43
+254,CRS-3,Low Earth Orbit,Space Station,Completed,2014-04-18,1.0,43
+255,CRS-4,Low Earth Orbit,Space Station,Completed,2014-09-21,7.0,43
+256,CRS-5,Low Earth Orbit,Space Station,Completed,2015-01-10,12.0,43
+257,SES-8,Geostationary Orbit,Satellite Deployment,Completed,2013-12-03,9.0,43
+258,Thaicom 6,Geostationary Orbit,Satellite Deployment,Completed,2014-01-06,9.0,43
+259,Turksat 4A,Geostationary Orbit,Satellite Deployment,Completed,2014-02-16,20.0,44
+260,ABS-3A / Eutelsat 115 West B,Geostationary Orbit,Satellite Deployment,Completed,2015-03-02,8.0,44
+261,Falcon Heavy Test Flight,Heliocentric Orbit,Test/Prototype,Completed,2018-02-06,270.0,44
+262,Arabsat-6A,Geostationary Orbit,Satellite Deployment,Completed,2019-04-11,8.0,44
+263,STP-2,Geostationary Orbit,Satellite Deployment,Completed,2019-06-25,3.0,44
+264,Demo-1,Low Earth Orbit,Space Station,Completed,2019-03-02,5.0,44
+265,Demo-2,Low Earth Orbit,Manned,Completed,2020-05-30,7.0,45
+266,Crew-1,Low Earth Orbit,Manned,Completed,2020-11-16,7.0,45
+267,Crew-2,Low Earth Orbit,Manned,Completed,2021-04-23,3.0,45
+268,Crew-3,Low Earth Orbit,Manned,Completed,2021-11-11,7.0,45
+269,Crew-4,Low Earth Orbit,Manned,Completed,2022-04-27,12.0,45
+270,Crew-5,Low Earth Orbit,Manned,Completed,2022-10-05,1.0,45
+271,Crew-6,Low Earth Orbit,Manned,Completed,2023-03-02,7.0,46
+272,Crew-7,Low Earth Orbit,Manned,Completed,2023-08-26,4.0,46
+273,Inspiration4,Low Earth Orbit,Tourism,Completed,2021-09-16,4.0,46
+274,Axiom Mission 1,Low Earth Orbit,Tourism,Completed,2022-04-08,3.0,47
+275,Axiom Mission 2,Low Earth Orbit,Tourism,Completed,2023-05-21,2.0,47
+276,Starship SN8,Suborbital,Test/Prototype,Failed,2020-12-09,0.0,47
+277,Starship SN15,Suborbital,Test/Prototype,Completed,2021-05-05,1.0,47
+278,Starship IFT-1,Suborbital,Test/Prototype,Failed,2023-04-20,0.0,47
+279,Starship IFT-2,Suborbital,Test/Prototype,Completed,2023-11-18,2.0,47
+280,Starship IFT-3,Suborbital,Test/Prototype,Completed,2024-03-14,1.0,47
+281,New Shepard NS-1,Suborbital,Test/Prototype,Failed,2015-04-29,0.0,47
+282,New Shepard NS-2,Suborbital,Test/Prototype,Completed,2015-11-23,2.0,48
+283,New Shepard NS-3,Suborbital,Test/Prototype,Completed,2016-01-22,1.0,48
+284,New Shepard NS-4,Suborbital,Test/Prototype,Completed,2016-04-02,1.0,48
+285,New Shepard NS-5,Suborbital,Test/Prototype,Completed,2016-06-19,1.0,48
+286,New Shepard NS-6,Suborbital,Test/Prototype,Completed,2016-10-05,1.0,48
+287,New Shepard NS-7,Suborbital,Test/Prototype,Completed,2017-12-12,2.0,48
+288,New Shepard NS-8,Suborbital,Test/Prototype,Completed,2018-04-29,2.0,48
+289,New Shepard NS-9,Suborbital,Test/Prototype,Completed,2019-01-23,2.0,48
+290,New Shepard NS-16,Suborbital,Tourism,Completed,2021-07-20,3.0,49
+291,New Shepard NS-17,Suborbital,Test/Prototype,Completed,2021-08-25,1.0,49
+292,New Shepard NS-18,Suborbital,Tourism,Completed,2021-10-13,3.0,49
+293,New Shepard NS-19,Suborbital,Tourism,Completed,2021-12-11,3.0,49
+294,New Shepard NS-20,Suborbital,Tourism,Completed,2022-03-31,2.0,50
+295,New Shepard NS-21,Suborbital,Tourism,Completed,2022-06-04,2.0,50
+296,New Shepard NS-23,Suborbital,Test/Prototype,Failed,2022-09-12,0.0,50
+297,New Shepard NS-24,Suborbital,Test/Prototype,Completed,2023-12-19,2.0,50
+298,New Shepard NS-25,Suborbital,Tourism,Completed,2024-05-19,2.0,50
+299,New Glenn First Flight,Low Earth Orbit,Test/Prototype,Planned,2025-11-01,0.0,50
+300,Mars Orbiter Mission 2,Mars,Planetary Exploration,Failed,2023-09-26,730.0,50
+301,Crew Dragon Demo-3,ISS,Manned,Planned,2025-04-15,0.0,50
+302,Luna 25,Moon,Lunar Mission,Failed,2023-08-11,14.0,50
+303,Artemis III,Moon,Manned,Planned,2026-09-20,0.0,50
+304,Galileo FOC M27 & M28,Earth Orbit,Satellite Deployment,Completed,2021-12-05,9.0,51
+305,Tianzhou-7,Tiangong Space Station,Cargo Resupply,Planned,2025-01-22,0.0,52
+306,HTV-X1,ISS,Cargo Resupply,Failed,2024-01-10,60.0,52
+307,New Shepard NS-28,Suborbital,Tourism,Completed,2024-03-05,2.0,52
+308,PSLV-C58 / XPoSat,Earth Orbit,Earth Observation,Completed,2023-01-01,7.0,52
+309,We Will Never Desert You,LEO,Satellite Deployment,Completed,2024-02-19,11.0,52
+310,Cygnus NG-21,ISS,Cargo Resupply,Completed,2023-08-02,7.0,52
+311,NROL-91,LEO,Satellite Deployment,Completed,2022-09-24,9.0,52
+312,Chang’e 7,Moon,Lunar Mission,Planned,2026-05-18,0.0,52
+313,JUICE,Jupiter System,Planetary Exploration,Failed,2023-04-14,4380.0,53
+314,Gaganyaan-1,Low Earth Orbit,Manned,Planned,2025-07-20,0.0,53
+315,Starlink Group 7-16,LEO,Satellite Deployment,Completed,2024-04-30,13.0,53
+316,Euclid,Sun-Earth L2,Space Telescope,Failed,2023-07-01,2190.0,53
+317,Progress MS-26,ISS,Cargo Resupply,Completed,2024-02-15,9.0,53
+318,Dream Chaser Tenacity Demo,ISS,Cargo Resupply,Planned,2025-02-01,0.0,53
+319,Atea-1,Suborbital,Test/Prototype,Completed,2009-11-30,3.0,54
+320,It’s a Test,Low Earth Orbit,Test/Prototype,Completed,2017-05-25,6.0,54
+321,Still Testing,Low Earth Orbit,Satellite Deployment,Completed,2018-01-21,6.0,54
+322,It’s Business Time,Low Earth Orbit,Satellite Deployment,Completed,2018-11-11,14.0,54
+323,ELAANA-19,Low Earth Orbit,Satellite Deployment,Completed,2018-12-16,3.0,54
+324,Make It Rain,Low Earth Orbit,Satellite Deployment,Completed,2019-06-29,5.0,54
+325,"Look Ma, No Hands",Low Earth Orbit,Satellite Deployment,Completed,2019-08-19,11.0,55
+326,As The Crow Flies,Low Earth Orbit,Satellite Deployment,Completed,2019-10-17,13.0,55
+327,Running Out of Fingers,Low Earth Orbit,Satellite Deployment,Completed,2019-12-06,7.0,55
+328,Capella-1,Low Earth Orbit,Satellite Deployment,Completed,2020-01-31,4.0,55
+329,Photon Pathstone,Low Earth Orbit,Test/Prototype,Completed,2020-08-31,9.0,55
+330,CAPSTONE,Moon,Lunar Mission,Completed,2022-06-28,14.0,55
+331,The Owl’s Night Continues,Sun-Synchronous Orbit,Earth Observation,Completed,2022-02-28,17.0,56
+332,Baby Come Back,Low Earth Orbit,Satellite Deployment,Completed,2023-07-18,5.0,56
+333,We Love The Nightlife,Low Earth Orbit,Satellite Deployment,Completed,2024-02-20,1.0,56
+334,Mission to Venus (Planned),Venus,Planetary Exploration,Planned,2025-10-15,0.0,56
+335,SpaceShipOne Flight 15P,Suborbital,Test/Prototype,Completed,2004-06-21,1.0,56
+336,SpaceShipOne Flight 16P,Suborbital,Test/Prototype,Completed,2004-09-29,1.0,56
+337,SpaceShipOne Flight 17P,Suborbital,Test/Prototype,Completed,2004-10-04,3.0,56
+338,VSS Enterprise Glide Flight 1,Suborbital,Test/Prototype,Completed,2010-10-10,3.0,56
+339,VSS Enterprise Glide Flight 2,Suborbital,Test/Prototype,Completed,2010-11-04,3.0,57
+340,VSS Enterprise Powered Flight 1,Suborbital,Test/Prototype,Completed,2013-04-29,1.0,57
+341,VSS Enterprise Powered Flight 2,Suborbital,Test/Prototype,Completed,2013-09-05,2.0,57
+342,VSS Enterprise Accident,Suborbital,Test/Prototype,Failed,2014-10-31,0.0,57
+343,VSS Unity Glide Flight 1,Suborbital,Test/Prototype,Completed,2016-12-03,1.0,58
+344,VSS Unity Glide Flight 5,Suborbital,Test/Prototype,Completed,2017-01-24,1.0,58
+345,VSS Unity Powered Flight 1,Suborbital,Test/Prototype,Completed,2018-04-05,3.0,58
+346,VSS Unity Powered Flight 2,Suborbital,Test/Prototype,Completed,2018-07-26,1.0,58
+347,VSS Unity Powered Flight 3,Suborbital,Test/Prototype,Completed,2018-12-13,3.0,58
+348,Unity 21,Suborbital,Tourism,Completed,2021-05-22,1.0,58
+349,Unity 22,Suborbital,Tourism,Completed,2021-07-11,3.0,59
+350,Unity 23,Suborbital,Tourism,Completed,2021-10-15,1.0,59
+351,Unity 25,Suborbital,Tourism,Completed,2023-05-25,1.0,59
+352,Galactic 01,Suborbital,Tourism,Completed,2023-06-29,2.0,59
+353,Galactic 02,Suborbital,Tourism,Completed,2023-08-10,2.0,59
+354,Galactic 03,Suborbital,Tourism,Completed,2023-09-08,2.0,59
+355,Galactic 04,Suborbital,Tourism,Completed,2023-10-06,2.0,60
+356,Galactic 05,Suborbital,Tourism,Completed,2024-01-26,2.0,60
+357,Galactic 06,Suborbital,Tourism,Planned,2024-12-15,0.0,60
+358,Axiom Mission 1 (Ax-1),Low Earth Orbit,Tourism,Completed,2022-04-08,14.0,60
+359,Axiom Mission 2 (Ax-2),Low Earth Orbit,Tourism,Completed,2023-05-21,14.0,60
+360,Axiom Mission 3 (Ax-3),Low Earth Orbit,Tourism,Planned,2024-10-15,0.0,60
+361,Axiom Mission 4 (Ax-4),Low Earth Orbit,Tourism,Planned,2025-10-15,0.0,61
+362,Axiom Station Module 1 Launch,Low Earth Orbit,Space Station,Planned,2026-01-15,0.0,61
+363,Axiom Station Module 2 Launch,Low Earth Orbit,Space Station,Planned,2026-09-15,0.0,61
+364,Dream Chaser Approach and Landing Test 1,Suborbital,Test/Prototype,Completed,2013-10-26,3.0,61
+365,Dream Chaser Free-Flight Test 2,Suborbital,Test/Prototype,Completed,2017-11-11,1.0,61
+366,Dream Chaser CRS-2 Mission 1,Low Earth Orbit,Space Station,Planned,2024-12-15,0.0,61
+367,Dream Chaser CRS-2 Mission 2,Low Earth Orbit,Space Station,Planned,2026-03-01,0.0,62
+368,Dream Chaser CRS-2 Mission 3,Low Earth Orbit,Space Station,Planned,2027-06-01,0.0,62
+369,Orbital Reef Module Delivery 1,Low Earth Orbit,Space Station,Planned,2028-05-15,0.0,62
+370,Orbital Reef Module Delivery 2,Low Earth Orbit,Space Station,Planned,2029-08-15,0.0,62
+371,LIFE Habitat Deployment Test,Low Earth Orbit,Test/Prototype,Planned,2026-11-10,0.0,62
+372,Túpac Katari-1,Geostationary Orbit,Satellite Deployment,Completed,2013-12-20,13.0,62
+373,BoliviaSat-2,Geostationary Orbit,Satellite Deployment,Planned,2027-03-15,0.0,63
+374,BoliviaSat-EarthObs,Sun-Synchronous Orbit,Earth Observation,Planned,2026-08-09,0.0,63
+375,BoliviaSat-Climate,Sun-Synchronous Orbit,Earth Observation,Planned,2028-05-30,0.0,63
+376,BoliviaSat-Tech,Low Earth Orbit,Test/Prototype,Planned,2025-10-01,0.0,63
+377,Bolivia Moon Orbiter,Moon,Lunar Mission,Planned,2031-11-14,0.0,63
+378,Bolivia Mars NanoSat,Mars,Planetary Exploration,Planned,2033-02-25,0.0,63
+379,Bolivia Deep Space Demo,Deep Space,Deep Space Mission,Planned,2035-09-07,0.0,64
+380,EthiopiaSat-1,Low Earth Orbit,Earth Observation,Completed,2019-12-20,12.0,64
+381,ETRSS-1,Low Earth Orbit,Earth Observation,Completed,2019-12-20,14.0,64
+382,ETRSS-2,Low Earth Orbit,Earth Observation,Planned,2026-04-15,0.0,64
+383,Ethiopia ClimateSat,Sun-Synchronous Orbit,Earth Observation,Planned,2027-06-02,0.0,64
+384,Ethiopia GeoSat,Geostationary Orbit,Satellite Deployment,Planned,2029-03-22,0.0,64
+385,Aryabhata,Low Earth Orbit,Satellite Deployment,Completed,1975-04-19,3.0,65
+386,SLV-3 E1,Low Earth Orbit,Test/Prototype,Failed,1979-08-10,0.0,65
+387,Rohini RS-1,Low Earth Orbit,Satellite Deployment,Completed,1980-07-18,14.0,65
+388,IRS-1A,Sun-Synchronous Orbit,Earth Observation,Completed,1988-03-17,12.0,66
+389,INSAT-1A,Geostationary Orbit,Satellite Deployment,Failed,1982-04-10,0.0,66
+390,INSAT-1B,Geostationary Orbit,Satellite Deployment,Completed,1982-08-30,3.0,66
+391,PSLV-D1,Low Earth Orbit,Test/Prototype,Failed,1993-09-20,0.0,66
+392,PSLV-D2,Sun-Synchronous Orbit,Earth Observation,Completed,1994-10-15,9.0,66
+393,Chandrayaan-1,Moon,Planetary Exploration,Completed,2008-10-22,12.0,66
+394,Mars Orbiter Mission (MOM),Mars,Planetary Exploration,Completed,2013-11-05,545.0,66
+395,Astrosat,Low Earth Orbit,Space Telescope,Completed,2015-09-28,8.0,66
+396,GSAT-19,Geostationary Orbit,Satellite Deployment,Completed,2017-06-05,17.0,66
+397,Chandrayaan-2,Moon,Planetary Exploration,Failed,2019-07-22,365.0,67
+398,PSLV-C37,Sun-Synchronous Orbit,Satellite Deployment,Completed,2017-02-15,6.0,67
+399,PSLV-C51/Amazonia-1,Sun-Synchronous Orbit,Earth Observation,Completed,2021-02-28,5.0,67
+400,Chandrayaan-3,Moon,Planetary Exploration,Completed,2023-07-14,19.0,67
+401,Aditya-L1,Sun-Earth L1,Space Telescope,Failed,2023-09-02,500.0,67
+402,Ariane 1 First Launch,Low Earth Orbit,Test/Prototype,Completed,1979-12-24,11.0,67
+403,Ariane 5 Maiden Flight,Low Earth Orbit,Test/Prototype,Failed,1996-06-04,0.0,68
+404,ERS-1,Sun-Synchronous Orbit,Earth Observation,Completed,1991-07-17,12.0,68
+405,ERS-2,Sun-Synchronous Orbit,Earth Observation,Completed,1995-04-21,10.0,68
+406,Envisat,Sun-Synchronous Orbit,Earth Observation,Completed,2002-03-01,10.0,68
+407,Sentinel-1A,Sun-Synchronous Orbit,Earth Observation,Completed,2014-04-03,12.0,68
+408,Sentinel-1B,Sun-Synchronous Orbit,Earth Observation,Completed,2016-04-25,6.0,68
+409,Sentinel-2A,Sun-Synchronous Orbit,Earth Observation,Completed,2015-06-23,4.0,69
+410,Sentinel-2B,Sun-Synchronous Orbit,Earth Observation,Completed,2017-03-07,13.0,69
+411,Sentinel-3A,Sun-Synchronous Orbit,Earth Observation,Completed,2016-02-16,8.0,69
+412,Giotto,Comet Halley,Deep Space Mission,Completed,1985-07-02,1261.0,69
+413,Rosetta,Comet 67P,Deep Space Mission,Completed,2004-03-02,506.0,69
+414,Mars Express,Mars,Planetary Exploration,Completed,2003-06-02,583.0,69
+415,Venus Express,Venus,Planetary Exploration,Completed,2005-11-09,432.0,70
+416,BepiColombo,Mercury,Planetary Exploration,Completed,2018-10-20,234.0,70
+417,JUICE,Jupiter System,Planetary Exploration,Completed,2023-04-14,420.0,70
+418,Herschel Space Observatory,Sun-Earth L2,Space Telescope,Completed,2009-05-14,303.0,70
+419,Planck Space Observatory,Sun-Earth L2,Space Telescope,Completed,2009-05-14,465.0,70
+420,Gaia,Sun-Earth L2,Space Telescope,Completed,2013-12-19,341.0,70
+421,Columbus Module Delivery,Low Earth Orbit,Space Station,Completed,2008-02-07,1.0,71
+422,Automated Transfer Vehicle 1 (Jules Verne),Low Earth Orbit,Space Station,Completed,2008-03-09,2.0,71
+423,Automated Transfer Vehicle 2 (Johannes Kepler),Low Earth Orbit,Space Station,Completed,2011-02-16,10.0,71
+424,Automated Transfer Vehicle 5 (Georges Lemaître),Low Earth Orbit,Space Station,Completed,2014-07-29,3.0,71
+425,Ohsumi,Low Earth Orbit,Satellite Deployment,Completed,1970-02-11,1.0,71
+426,H-IIA Maiden Flight,Low Earth Orbit,Test/Prototype,Completed,2001-08-29,1.0,71
+427,Hayabusa,Asteroid Itokawa,Sample Return,Completed,2003-05-09,1405.0,72
+428,Kaguya (SELENE),Moon,Lunar Mission,Completed,2007-09-14,9.0,72
+429,IKAROS,Heliocentric Orbit,Deep Space Mission,Completed,2010-05-21,436.0,72
+430,Hayabusa2,Asteroid Ryugu,Sample Return,Completed,2014-12-03,593.0,72
+431,Akatsuki,Venus,Planetary Exploration,Completed,2010-05-21,405.0,72
+432,SLIM (Smart Lander for Investigating Moon),Moon,Lunar Mission,Failed,2023-09-06,180.0,72
+433,Vostok 1,Low Earth Orbit,Manned,Completed,1961-04-12,1.0,73
+434,Luna 9,Moon,Lunar Mission,Completed,1966-01-31,22.0,73
+435,Soyuz 1,Low Earth Orbit,Manned,Failed,1967-04-23,1.0,73
+436,Soyuz 11,Low Earth Orbit,Manned,Failed,1971-06-06,23.0,73
+437,Mir Space Station Launch,Low Earth Orbit,Space Station,Completed,1986-02-20,7.0,73
+438,Soyuz MS-10,Low Earth Orbit,Manned,Failed,2018-10-11,0.0,73
+439,Soyuz MS-19,Low Earth Orbit,Manned,Completed,2021-10-05,4.0,74
+440,Luna 25,Moon,Lunar Mission,Failed,2023-08-10,0.0,74
+441,Shenzhou 5,Low Earth Orbit,Manned,Completed,2003-10-15,5.0,74
+442,Chang’e 1,Moon,Lunar Mission,Completed,2007-10-24,15.0,74
+443,Chang’e 3,Moon,Lunar Mission,Completed,2013-12-01,18.0,74
+444,Tiangong-1,Low Earth Orbit,Space Station,Completed,2011-09-29,7.0,74
+445,Tianzhou-1,Low Earth Orbit,Space Station,Completed,2017-04-20,2.0,75
+446,Chang’e 4,Moon,Lunar Mission,Completed,2018-12-07,29.0,75
+447,Chang’e 5,Moon,Sample Return,Completed,2020-11-23,14.0,75
+448,Tianwen-1,Mars,Planetary Exploration,Completed,2020-07-23,329.0,75
+449,Shenzhou 16,Low Earth Orbit,Manned,Completed,2023-05-30,11.0,75
+450,Alouette 1,Low Earth Orbit,Earth Observation,Completed,1962-09-29,12.0,75
+451,Radarsat-1,Sun-Synchronous Orbit,Earth Observation,Completed,1995-11-04,17.0,76
+452,Radarsat-2,Sun-Synchronous Orbit,Earth Observation,Completed,2007-12-14,7.0,76
+453,Radarsat Constellation Mission,Sun-Synchronous Orbit,Earth Observation,Completed,2019-06-12,3.0,76
+454,Canadarm2 Delivery,Low Earth Orbit,Space Station,Completed,2001-04-19,9.0,76
+455,SCD-1,Low Earth Orbit,Earth Observation,Completed,1993-02-09,5.0,76
+456,CBERS-1,Sun-Synchronous Orbit,Earth Observation,Completed,1999-10-14,11.0,77
+457,CBERS-4,Sun-Synchronous Orbit,Earth Observation,Completed,2014-12-07,14.0,77
+458,Amazônia-1,Sun-Synchronous Orbit,Earth Observation,Completed,2021-02-28,13.0,77
+459,Ofeq 1,Low Earth Orbit,Earth Observation,Completed,1988-09-19,9.0,77
+460,Ofeq 10,Low Earth Orbit,Earth Observation,Completed,2014-04-09,10.0,77
+461,Beresheet,Moon,Lunar Mission,Failed,2019-02-22,47.0,77
+462,Beresheet 2,Moon,Lunar Mission,Planned,2025-12-01,0.0,78
+463,Omid,Low Earth Orbit,Satellite Deployment,Completed,2009-02-02,12.0,78
+464,Rasad-1,Low Earth Orbit,Earth Observation,Completed,2011-06-15,9.0,78
+465,Navid,Low Earth Orbit,Earth Observation,Completed,2012-02-03,14.0,78
+466,Payam,Low Earth Orbit,Satellite Deployment,Failed,2019-01-15,0.0,78
+467,Noor-1,Low Earth Orbit,Earth Observation,Completed,2020-04-22,8.0,78
+468,Noor-2,Low Earth Orbit,Earth Observation,Completed,2022-03-08,11.0,78
+469,Atlas V Maiden Flight,Low Earth Orbit,Test/Prototype,Completed,2002-08-21,4.0,79
+470,Mars Reconnaissance Orbiter,Mars,Planetary Exploration,Completed,2005-08-12,671.0,79
+471,New Horizons,Pluto,Deep Space Mission,Completed,2006-01-19,3849.0,79
+472,Juno,Jupiter,Planetary Exploration,Failed,2011-08-05,4500.0,79
+473,OSIRIS-REx,Asteroid Bennu,Sample Return,Completed,2016-09-08,1011.0,79
+474,Lucy,Asteroid Belt,Planetary Exploration,Completed,2021-10-16,673.0,79
+475,New Shepard NS-1,Suborbital,Test/Prototype,Failed,2015-04-29,0.0,80
+476,New Shepard NS-2,Suborbital,Test/Prototype,Completed,2015-11-23,3.0,80
+477,New Shepard NS-11,Suborbital,Test/Prototype,Completed,2019-05-02,2.0,80
+478,NS-16,Suborbital,Tourism,Completed,2021-07-20,2.0,80
+479,NS-18,Suborbital,Tourism,Completed,2021-10-13,3.0,80
+480,NS-19,Suborbital,Tourism,Completed,2021-12-11,3.0,80
+481,NS-22,Suborbital,Tourism,Completed,2022-08-04,1.0,81
+482,New Glenn Maiden Flight,Low Earth Orbit,Test/Prototype,Planned,2025-05-15,0.0,81
+483,Alpha Flight 1,Low Earth Orbit,Test/Prototype,Failed,2021-09-03,0.0,81
+484,Alpha Flight 2 (To The Black),Low Earth Orbit,Test/Prototype,Completed,2022-10-01,12.0,81
+485,Alpha Flight 3 (Victus Nox),Low Earth Orbit,Satellite Deployment,Completed,2023-09-14,7.0,81
+486,Alpha Flight 4,Low Earth Orbit,Satellite Deployment,Planned,2024-11-10,0.0,81
+487,Blue Ghost Mission 1,Moon,Lunar Mission,Planned,2024-12-15,0.0,82
+488,Blue Ghost Mission 2,Moon,Lunar Mission,Planned,2026-05-15,0.0,82
+489,Alpha Flight 5,Low Earth Orbit,Satellite Deployment,Planned,2025-07-01,0.0,82
+490,Beta Rocket Maiden Flight,Low Earth Orbit,Test/Prototype,Planned,2027-08-20,0.0,82
+491,Terran 1 Maiden Flight,Low Earth Orbit,Test/Prototype,Failed,2023-03-23,0.0,82
+492,Terran 1 Flight 2,Low Earth Orbit,Test/Prototype,Planned,2025-02-15,0.0,82
+493,Terran R Maiden Flight,Low Earth Orbit,Test/Prototype,Planned,2026-07-01,0.0,83
+494,Terran R Mission 2,Low Earth Orbit,Satellite Deployment,Planned,2027-03-15,0.0,83
+495,Terran R Mission 3,Geostationary Orbit,Satellite Deployment,Planned,2028-01-10,0.0,83
+496,Lunar Lander Demo,Moon,Lunar Mission,Planned,2029-04-15,0.0,83
+497,Mars Cargo Mission 1,Mars,Planetary Exploration,Planned,2030-10-15,0.0,83
+498,Terran R Mission 4,Low Earth Orbit,Satellite Deployment,Planned,2029-12-01,0.0,84
+499,HybriCore Test Flight 1,Suborbital,Test/Prototype,Completed,2019-07-15,3.0,84
+500,fspt,Mars,Planetary Exploration,Planned,2030-10-15,0.0,84
+501,x-Mars,Mars,Planetary Exploration,Completed,2015-10-15,25.0,84
+502,tasx-forA,Comet Halley,Space Station,Planned,2039-10-15,0.0,84
+503,pluer-9,Low Earth Orbit,Lunar Mission,Completed,2020-10-15,13.0,84
+504,x-Moon,Moon,Lunar Mission,Failed,2014-10-15,22.0,84

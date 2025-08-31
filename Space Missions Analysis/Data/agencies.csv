@@ -1,0 +1,85 @@
+Agency_id,Agency_name,Country,Founded_year,Budget_billion_usd
+1,NASA,USA,1958,25.2
+2,ESA,Europe,1975,7.15
+3,Roscosmos,Russia,1992,3.27
+4,CNSA,China,1993,11.0
+5,ISRO,India,1969,1.9
+6,JAXA,Japan,2003,2.05
+7,CSA,Canada,1989,0.3
+8,CNES,France,1961,2.0
+9,UK Space Agency,UK,2010,0.65
+10,DLR,Germany,1969,1.1
+11,ASI,Italy,1988,0.95
+12,KARI,South Korea,1989,0.45
+13,AEB,Brazil,1994,0.4
+14,Australian Space Agency,Australia,2018,0.25
+15,Mexican Space Agency,Mexico,2010,0.0
+16,Turkish Space Agency,Turkey,2018,0.37
+17,NASRDA,Nigeria,1999,0.05
+18,ISRAEL Space Agency,Israel,1983,0.1
+19,SANSA,South Africa,2010,0.15
+20,Luxembourg Space Agency,Luxembourg,2018,0.1
+21,New Zealand Space Agency,New Zealand,2016,0.12
+22,UAE Space Agency,UAE,2014,0.54
+23,SRI (Sweden),Sweden,1972,0.2
+24,Norwegian Space Agency,Norway,1987,0.1
+25,POLSA,Poland,2014,0.08
+26,ROSA,Romania,1991,0.05
+27,Portuguese Space Agency,Portugal,2019,0.06
+28,Greek Space Agency,Greece,2018,0.04
+29,Czech Space Office,Czech Republic,2003,0.05
+30,Netherlands Space Office,Netherlands,2009,0.11
+31,Belgian Institute for Space Aeronomy,Belgium,1964,0.09
+32,Finnish Space Committee,Finland,1987,0.06
+33,Swiss Space Office,Switzerland,1992,0.12
+34,Austrian Space Agency,Austria,1972,0.07
+35,Hungarian Space Office,Hungary,1992,0.04
+36,Slovenian Centre of Excellence,Slovenia,2009,0.02
+37,Slovak Space Office,Slovakia,2019,0.02
+38,Irish Space Office,Ireland,1987,0.03
+39,Spanish INTA,Spain,1942,0.8
+40,KACST Space Program,Saudi Arabia,2018,0.4
+41,SUPARCO,Pakistan,1961,0.08
+42,ANGKASA,Malaysia,2002,0.06
+43,Vietnam Space Center,Vietnam,2011,0.15
+44,Philippine Space Agency,Philippines,2019,0.08
+45,Kenya Space Agency,Kenya,2017,0.03
+46,Ethiopian Space Science,Ethiopia,2016,0.02
+47,Egyptian Space Agency,Egypt,2018,0.1
+48,Argentine CONAE,Argentina,1991,0.1
+49,Peruvian Space Agency,Peru,2006,0.03
+50,Bolivian Space Agency,Bolivia,2010,0.03
+51,Mongolian Space Agency,Mongolia,2010,0.02
+52,Moroccan CRERS,Morocco,1989,0.03
+53,Ukrainian Space Agency,Ukraine,1992,0.2
+54,Belarus Space,Belarus,2009,0.04
+55,Lithuanian Space Association,Lithuania,2009,0.02
+56,Latvian Space Office,Latvia,2009,0.02
+57,Serbian Office for Space Sciences,Serbia,2010,0.02
+58,Azercosmos,Azerbaijan,2010,0.05
+59,Bahrain NSSA,Bahrain,2014,0.03
+60,Qatar Space Program,Qatar,2018,0.05
+61,Oman National Space Program,Oman,2019,0.03
+62,Tunisian Space Association,Tunisia,2013,0.02
+63,ASAL,Algeria,2002,0.07
+64,Ghana Space Science,Ghana,2012,0.02
+65,Ivory Coast Space Initiative,Côte d’Ivoire,2018,0.01
+66,Angolan National Space,Angola,2013,0.03
+67,ZINGSA,Zimbabwe,2018,0.02
+68,SPARRSO,Bangladesh,1980,0.05
+69,Bhutan Space Program,Bhutan,2016,0.01
+70,Sri Lanka Space Program,Sri Lanka,2018,0.02
+71,NESRA,Nepal,2016,0.01
+72,GISTDA,Thailand,2000,0.1
+73,Singapore Space & Technology,Singapore,2001,0.06
+74,Iranian Space Agency,Iran,2004,0.2
+75,Iraq Space Program,Iraq,2015,0.02
+76,Kuwait Space Program,Kuwait,2018,0.02
+77,QZS Program,Japan,2010,0.2
+78,South Sudan Space Initiative,South Sudan,2018,0.01
+79,NSIL,India,2019,0.5
+80,SpaceX,USA,2002,2.0
+81,Blue Origin,USA,2000,1.5
+82,Rocket Lab,New Zealand,2006,0.3
+83,Virgin Galactic,USA,2004,0.2
+84,Relativity Space,USA,2015,0.1

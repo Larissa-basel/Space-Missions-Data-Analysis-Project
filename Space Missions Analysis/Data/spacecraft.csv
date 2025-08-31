@@ -1,0 +1,761 @@
+Spacecraft_id,Spacecraft_name,Manufacturer,Type,Cost_million_usd,first_launch_year,Mission_id
+1,HTV Kounotori,JAXA,Rocket,981.03,1963,1
+2,HTV-X,Mitsubishi Heavy Industries,Space Telescope,559.02,1987,1
+3,HTV-X,Mitsubishi Heavy Industries,Space Telescope,605.44,2015,2
+4,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Satellite,1798.24,1987,3
+5,Orion MPCV,NASA,Space Telescope,238.6,2008,3
+6,HTV Kounotori,JAXA,Probe,267.26,1988,4
+7,Soyuz FG,Roscosmos,Space Capsule,1248.45,1993,5
+8,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,1739.24,2003,5
+9,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,959.78,1962,6
+10,CST-100 Starliner,Boeing,Shuttle,1739.77,2021,7
+11,HTV-X,Mitsubishi Heavy Industries,Space Tug,1753.63,2003,7
+12,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1032.03,1975,8
+13,H-IIA,JAXA,Space Telescope,286.87,1997,9
+14,Space Shuttle Columbia,NASA,Space Capsule,1999.22,1988,9
+15,Atlas V 401,United Launch Alliance,Space Telescope,1034.82,1963,10
+16,Ariane 5 ECA,ESA,Lander,1047.52,1998,11
+17,New Glenn,Blue Origin,Space Capsule,1666.88,1988,11
+18,ATV Jules Verne,ESA,Space Telescope,1409.55,1979,12
+19,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,450.86,1988,13
+20,Cygnus,Northrop Grumman,Rocket,1174.18,1965,13
+21,Electron,Rocket Lab,Rocket,1943.12,1986,14
+22,Delta IV Heavy,Boeing,Rover,1513.59,1973,15
+23,CST-100 Starliner,Boeing,Rocket,1107.09,1999,15
+24,Orion MPCV,NASA,Space Telescope,528.22,2008,16
+25,HTV-X,Mitsubishi Heavy Industries,Rocket,123.82,1968,17
+26,MetOp,Airbus Defence and Space,Space Telescope,186.39,2001,17
+27,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Capsule,116.6,1998,18
+28,Dragon Capsule,SpaceX,Space Telescope,671.48,1999,19
+29,HTV-X,Mitsubishi Heavy Industries,Lander,1268.27,2000,19
+30,CST-100 Starliner,Boeing,Shuttle,963.24,1962,20
+31,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1780.05,2010,21
+32,HTV-X,Mitsubishi Heavy Industries,Space Capsule,1017.62,1971,21
+33,Proton-M,Roscosmos,Rover,174.39,1993,22
+34,H-IIA,JAXA,Probe,1974.91,1993,23
+35,Electron,Rocket Lab,Space Telescope,623.85,2017,23
+36,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1785.7,2010,24
+37,HTV-X,Mitsubishi Heavy Industries,Shuttle,439.01,1989,25
+38,CST-100 Starliner,Boeing,Shuttle,224.21,1999,25
+39,HTV-X,Mitsubishi Heavy Industries,Rocket,254.89,1970,26
+40,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,797.47,2014,27
+41,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,773.91,1977,27
+42,Delta IV Heavy,United Launch Alliance,Space Telescope,1522.11,1993,28
+43,HTV-X,Mitsubishi Heavy Industries,Shuttle,379.66,1962,29
+44,HTV-X,Mitsubishi Heavy Industries,Space Telescope,287.62,1987,29
+45,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1631.67,1979,30
+46,Progress MS,Roscosmos,Rover,235.44,1968,30
+47,HTV-X,Mitsubishi Heavy Industries,Space Telescope,555.74,2011,31
+48,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1702.21,2002,32
+49,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Capsule,1776.46,1961,32
+50,Photon,Rocket Lab,Space Telescope,57.34,1960,33
+51,HTV-X,Mitsubishi Heavy Industries,Space Tug,660.47,1975,34
+52,Chang’e Lander,CAST,Space Tug,668.07,1965,34
+53,Space Shuttle Columbia,NASA,Space Telescope,383.95,1991,35
+54,Delta IV Heavy,Boeing,Space Telescope,301.84,1980,36
+55,New Shepard,Blue Origin,Satellite,838.86,2002,36
+56,HTV-X,Mitsubishi Heavy Industries,Lander,1936.25,1971,37
+57,H-IIA,JAXA,Rocket,1458.32,2006,38
+58,Delta IV Heavy,United Launch Alliance,Satellite,1150.66,1971,38
+59,Falcon Heavy,SpaceX,Space Tug,1839.78,1968,39
+60,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1642.51,1965,40
+61,Photon,Rocket Lab,Space Telescope,1080.72,2004,40
+62,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,871.85,1999,41
+63,Antares,Northrop Grumman,Space Telescope,1701.69,1987,42
+64,Ariane 5 ECA,ESA,Space Telescope,216.1,1979,42
+65,H-IIA,JAXA,Satellite,1252.39,2024,43
+66,Falcon Heavy,SpaceX,Space Telescope,2042.69,2024,44
+67,HTV Kounotori,JAXA,Probe,1698.52,1966,44
+68,Delta IV Heavy,United Launch Alliance,Space Telescope,1809.9,1964,45
+69,Antares,Northrop Grumman,Probe,1586.03,2008,46
+70,Falcon 9,SpaceX,Space Telescope,1098.83,1996,46
+71,Cygnus,Northrop Grumman,Space Telescope,1037.97,2010,47
+72,Vikram Lander,ISRO,Rocket,1922.2,1968,48
+73,Atlas V 401,United Launch Alliance,Satellite,1752.02,1992,48
+74,HTV-X,Mitsubishi Heavy Industries,Space Telescope,286.69,2021,49
+75,CST-100 Starliner,Boeing,Rocket,1806.14,1968,50
+76,Delta IV Heavy,Boeing,Space Telescope,1256.95,1981,50
+77,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1386.29,2014,51
+78,Space Shuttle Columbia,NASA,Space Telescope,551.63,2020,52
+79,HTV-X,Mitsubishi Heavy Industries,Space Telescope,418.42,1962,52
+80,MetOp,Airbus Defence and Space,Space Telescope,248.12,1980,53
+81,Progress MS,Roscosmos,Space Capsule,619.23,1993,54
+82,Titan IVB,Lockheed Martin,Rocket,330.86,1999,54
+83,HTV-X,Mitsubishi Heavy Industries,Shuttle,875.76,1988,55
+84,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1577.37,1966,56
+85,Delta IV Heavy,United Launch Alliance,Space Telescope,1514.68,1973,56
+86,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Capsule,1087.33,2009,57
+87,HTV-X,Mitsubishi Heavy Industries,Space Capsule,758.97,1995,58
+88,Soyuz FG,Roscosmos,Space Tug,1346.62,2013,58
+89,Proton-M,Roscosmos,Probe,1286.99,1995,59
+90,GSLV Mk III,ISRO,Space Telescope,1993.77,2018,60
+91,Ariane 5 ECA,ESA,Space Telescope,1856.24,1970,60
+92,Orion MPCV,NASA,Space Telescope,1855.09,2003,61
+93,Orion MPCV,NASA,Space Telescope,1122.84,1981,62
+94,Soyuz FG,Roscosmos,Space Telescope,1063.47,1977,62
+95,Progress MS,Roscosmos,Lander,729.03,2003,63
+96,Soyuz FG,Roscosmos,Space Telescope,1048.83,1972,64
+97,Orion MPCV,NASA,Rocket,1569.6,2003,64
+98,Progress MS,Roscosmos,Space Telescope,1755.29,1963,65
+99,HTV-X,Mitsubishi Heavy Industries,Space Telescope,2049.16,1982,66
+100,HTV-X,Mitsubishi Heavy Industries,Space Telescope,549.33,2006,66
+101,H-IIA,JAXA,Space Telescope,188.64,1965,67
+102,Proton-M,Roscosmos,Rover,771.24,1991,68
+103,HTV-X,Mitsubishi Heavy Industries,Space Telescope,570.28,1990,68
+104,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,2003.92,2001,69
+105,HTV-X,Mitsubishi Heavy Industries,Space Telescope,312.25,1996,70
+106,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1148.12,1993,70
+107,HTV-X,Mitsubishi Heavy Industries,Probe,1519.02,2001,71
+108,Progress MS,Roscosmos,Space Telescope,1500.76,2019,72
+109,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,520.69,2006,72
+110,Orion MPCV,NASA,Satellite,794.53,1961,73
+111,HTV Kounotori,JAXA,Lander,1631.2,2018,74
+112,ATV Jules Verne,ESA,Rocket,1273.48,1975,74
+113,Chang’e Lander,CAST,Space Telescope,1065.57,1996,75
+114,Cygnus,Northrop Grumman,Rocket,65.47,2020,76
+115,HTV-X,Mitsubishi Heavy Industries,Space Telescope,79.35,2008,76
+116,Ariane 5 ECA,ESA,Space Telescope,1669.49,1972,77
+117,Dragon Capsule,SpaceX,Space Telescope,1176.72,1971,78
+118,HTV-X,Mitsubishi Heavy Industries,Lander,1445.32,1969,78
+119,Titan IVB,Lockheed Martin,Probe,1300.43,2011,79
+120,HTV-X,Mitsubishi Heavy Industries,Shuttle,1424.04,1997,80
+121,New Glenn,Blue Origin,Shuttle,170.52,2001,80
+122,HTV-X,Mitsubishi Heavy Industries,Space Tug,137.87,2000,81
+123,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,430.91,2002,82
+124,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1214.84,1981,82
+125,Chang’e Lander,CAST,Rocket,1417.99,1976,83
+126,Progress MS,Roscosmos,Space Telescope,1274.17,2015,84
+127,Atlas V 401,United Launch Alliance,Space Telescope,1120.69,2006,84
+128,HTV-X,Mitsubishi Heavy Industries,Shuttle,506.63,1974,85
+129,Delta IV Heavy,United Launch Alliance,Probe,1777.3,1997,85
+130,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1042.63,1983,86
+131,Titan IVB,Lockheed Martin,Rover,1097.45,1991,87
+132,HTV-X,Mitsubishi Heavy Industries,Probe,108.44,1990,87
+133,Tianzhou,CAST,Satellite,879.52,1961,88
+134,Progress MS,Roscosmos,Shuttle,1541.8,2004,89
+135,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,642.14,1998,89
+136,HTV-X,Mitsubishi Heavy Industries,Rocket,1374.42,1997,90
+137,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,76.75,1982,91
+138,Proton-M,Roscosmos,Space Telescope,348.71,2016,91
+139,Cygnus,Northrop Grumman,Probe,487.71,1974,92
+140,Delta IV Heavy,Boeing,Space Telescope,1482.42,1990,93
+141,MetOp,Airbus Defence and Space,Lander,208.81,1995,93
+142,Space Shuttle Columbia,NASA,Rocket,1950.77,1980,94
+143,CST-100 Starliner,Boeing,Rocket,1829.39,1989,95
+144,HTV-X,Mitsubishi Heavy Industries,Rover,1552.99,1974,95
+145,PSLV,ISRO,Space Telescope,1811.78,1961,96
+146,Cygnus,Northrop Grumman,Satellite,256.02,2022,97
+147,Dragon Capsule,SpaceX,Space Telescope,1061.37,2000,97
+148,Rosetta,Airbus Defence and Space,Space Telescope,1786.04,2013,98
+149,CST-100 Starliner,Boeing,Shuttle,1971.71,1960,99
+150,H-IIA,JAXA,Satellite,1331.88,1966,99
+151,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,872.68,1969,100
+152,H-IIB,JAXA,Shuttle,1781.32,1989,101
+153,MetOp,Airbus Defence and Space,Rocket,613.03,1972,101
+154,Progress MS,Roscosmos,Shuttle,1196.33,2019,102
+155,Falcon 9,SpaceX,Rocket,255.37,2005,103
+156,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1851.98,2004,103
+157,Orion MPCV,NASA,Space Telescope,308.09,1994,104
+158,Atlas V 401,United Launch Alliance,Lander,153.42,1993,105
+159,H-IIA,JAXA,Space Telescope,1536.18,1999,105
+160,Falcon 9,SpaceX,Space Tug,1140.07,2005,106
+161,Falcon 9,SpaceX,Space Telescope,754.83,2017,107
+162,Proton-M,Roscosmos,Shuttle,625.72,1966,107
+163,H-IIA,JAXA,Space Telescope,1886.08,1996,108
+164,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,692.86,1968,109
+165,Progress MS,Roscosmos,Space Telescope,763.44,1996,109
+166,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1555.55,1960,110
+167,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Tug,157.48,1990,111
+168,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,2028.33,1981,111
+169,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Probe,2042.81,1997,112
+170,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1688.49,1968,113
+171,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1252.8,1993,113
+172,MetOp,Airbus Defence and Space,Space Tug,448.72,1998,114
+173,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1007.91,2008,115
+174,HTV-X,Mitsubishi Heavy Industries,Rocket,1780.39,1964,115
+175,Falcon 9,SpaceX,Probe,251.23,2007,116
+176,MetOp,Airbus Defence and Space,Space Tug,60.33,2003,117
+177,Delta IV Heavy,United Launch Alliance,Probe,1004.07,2013,117
+178,CST-100 Starliner,Boeing,Space Telescope,1916.4,1997,118
+179,Ariane 5 ECA,ESA,Space Telescope,1570.36,1966,119
+180,Falcon Heavy,SpaceX,Space Telescope,1066.51,1981,119
+181,Electron,Rocket Lab,Rocket,424.26,1988,120
+182,Atlas V,Lockheed Martin,Space Telescope,432.37,1992,121
+183,HTV-X,Mitsubishi Heavy Industries,Satellite,1196.16,2024,121
+184,Soyuz FG,Roscosmos,Space Telescope,104.22,1992,122
+185,Progress MS,Roscosmos,Space Telescope,670.22,1960,123
+186,Proton-M,Roscosmos,Shuttle,923.0,2006,123
+187,ATV Jules Verne,ESA,Space Telescope,1874.04,1997,124
+188,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1616.19,2016,125
+189,Ariane 5 ECA,ESA,Shuttle,1542.47,1969,125
+190,Antares,Northrop Grumman,Lander,1980.41,1969,126
+191,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,813.83,1960,127
+192,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Capsule,655.93,1990,127
+193,Tianzhou,CAST,Lander,1702.86,1973,128
+194,Titan IVB,Lockheed Martin,Probe,1527.96,1965,129
+195,PSLV,ISRO,Space Telescope,1115.78,1971,129
+196,Cygnus,Northrop Grumman,Shuttle,825.52,2001,130
+197,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,360.8,1974,131
+198,Vikram Lander,ISRO,Space Telescope,1370.64,2012,131
+199,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1104.11,2017,132
+200,Antares,Northrop Grumman,Rocket,2036.55,1995,133
+201,Space Shuttle Columbia,NASA,Rover,1994.89,1980,133
+202,Ariane 5 ECA,ESA,Space Telescope,894.71,2011,134
+203,Ariane 6,ESA,Lander,625.11,1978,135
+204,Photon,Rocket Lab,Space Capsule,1222.74,2015,135
+205,Proton-M,Roscosmos,Satellite,739.78,1964,136
+206,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1757.24,1973,137
+207,CST-100 Starliner,Boeing,Probe,689.7,1983,137
+208,HTV-X,Mitsubishi Heavy Industries,Shuttle,574.87,1960,138
+209,Rosetta,Airbus Defence and Space,Shuttle,1558.54,1993,139
+210,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1258.17,2003,139
+211,Cygnus,Northrop Grumman,Space Telescope,1529.7,1970,140
+212,HTV Kounotori,JAXA,Space Telescope,944.72,1967,141
+213,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Tug,1827.95,1977,141
+214,Dragon Capsule,SpaceX,Space Tug,789.32,2007,142
+215,HTV-X,Mitsubishi Heavy Industries,Shuttle,1460.64,2004,142
+216,Photon,Rocket Lab,Shuttle,1101.69,1985,143
+217,MetOp,Airbus Defence and Space,Space Telescope,368.34,1981,144
+218,Atlas V,Lockheed Martin,Space Telescope,1353.2,2009,144
+219,Antares,Northrop Grumman,Probe,1774.41,2010,145
+220,Atlas V,Lockheed Martin,Space Capsule,531.28,2024,146
+221,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Tug,652.12,2009,146
+222,HTV Kounotori,JAXA,Space Telescope,416.97,2023,147
+223,Saturn V,NASA,Space Telescope,415.89,1997,148
+224,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,1583.74,2013,148
+225,Proton-M,Roscosmos,Satellite,1780.48,2000,149
+226,Atlas V,Lockheed Martin,Shuttle,1731.65,1985,150
+227,Cygnus,Northrop Grumman,Space Telescope,1845.25,1995,150
+228,Progress MS,Roscosmos,Rocket,667.41,2010,151
+229,HTV-X,Mitsubishi Heavy Industries,Rocket,1783.36,2001,152
+230,H-IIB,JAXA,Shuttle,1091.22,2020,152
+231,Progress MS,Roscosmos,Space Telescope,139.89,2020,153
+232,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1890.52,1962,154
+233,Progress MS,Roscosmos,Space Tug,1879.22,1965,154
+234,HTV-X,Mitsubishi Heavy Industries,Space Telescope,541.14,2020,155
+235,HTV-X,Mitsubishi Heavy Industries,Lander,275.64,2012,156
+236,HTV-X,Mitsubishi Heavy Industries,Space Telescope,345.98,1980,156
+237,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Tug,1191.72,2019,157
+238,Space Shuttle Columbia,NASA,Rocket,688.72,1974,158
+239,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Capsule,1685.56,2016,158
+240,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,763.13,2018,159
+241,Cygnus,Northrop Grumman,Space Telescope,1501.66,2017,160
+242,H-IIB,JAXA,Space Capsule,2020.79,1973,160
+243,Progress MS,Roscosmos,Space Capsule,1904.3,2013,161
+244,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1949.81,1983,162
+245,Cygnus,Northrop Grumman,Probe,1193.38,2000,162
+246,Soyuz FG,Roscosmos,Space Tug,749.54,1984,163
+247,Soyuz FG,Roscosmos,Space Telescope,873.77,2015,164
+248,Antares,Northrop Grumman,Space Tug,907.75,1983,164
+249,HTV-X,Mitsubishi Heavy Industries,Space Tug,623.83,1988,165
+250,HTV-X,Mitsubishi Heavy Industries,Space Telescope,784.55,1969,166
+251,HTV-X,Mitsubishi Heavy Industries,Satellite,1355.78,1968,166
+252,CST-100 Starliner,Boeing,Space Telescope,1457.9,1980,167
+253,New Shepard,Blue Origin,Shuttle,481.69,1993,168
+254,Falcon 9,SpaceX,Space Capsule,1025.67,1964,168
+255,Tianzhou,CAST,Probe,940.93,1964,169
+256,Photon,Rocket Lab,Rocket,1142.48,1974,170
+257,HTV-X,Mitsubishi Heavy Industries,Rover,1505.79,1969,170
+258,Saturn V,NASA,Shuttle,263.12,1992,171
+259,Orion MPCV,NASA,Space Capsule,1921.18,2021,172
+260,H-IIB,JAXA,Space Telescope,1211.9,1983,172
+261,Space Shuttle Columbia,NASA,Space Telescope,1858.93,1968,173
+262,HTV-X,Mitsubishi Heavy Industries,Probe,1660.0,1969,174
+263,Ariane 6,ESA,Space Telescope,603.59,1982,174
+264,Orion MPCV,NASA,Lander,1750.61,1982,175
+265,Vikram Lander,ISRO,Rocket,196.63,2009,176
+266,New Shepard,Blue Origin,Space Telescope,681.46,1997,176
+267,Vikram Lander,ISRO,Space Telescope,1282.42,1991,177
+268,HTV-X,Mitsubishi Heavy Industries,Space Capsule,695.76,1972,178
+269,Vikram Lander,ISRO,Space Telescope,1384.38,2006,178
+270,HTV-X,Mitsubishi Heavy Industries,Satellite,549.45,1982,179
+271,Atlas V,Lockheed Martin,Rocket,1869.08,1999,180
+272,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1770.76,1996,180
+273,HTV Kounotori,JAXA,Probe,347.01,2000,181
+274,Ariane 6,ESA,Space Telescope,919.0,1960,182
+275,GSLV Mk III,ISRO,Shuttle,376.84,1984,182
+276,Atlas V 401,United Launch Alliance,Probe,1270.35,2013,183
+277,New Glenn,Blue Origin,Space Telescope,445.17,1978,184
+278,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1203.58,1978,184
+279,PSLV,ISRO,Rover,1186.28,2024,185
+280,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1898.98,1995,186
+281,Ariane 6,ESA,Probe,1313.7,1998,186
+282,Ariane 5 ECA,ESA,Satellite,236.47,2007,187
+283,Soyuz FG,Roscosmos,Rocket,1573.17,1981,188
+284,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1685.23,1974,188
+285,HTV-X,Mitsubishi Heavy Industries,Rocket,348.13,2020,189
+286,ATV Jules Verne,ESA,Space Telescope,1196.92,2011,190
+287,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,609.53,1983,190
+288,Soyuz FG,Roscosmos,Rover,547.98,1988,191
+289,Proton-M,Roscosmos,Probe,1813.92,1977,192
+290,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1574.53,1983,192
+291,HTV Kounotori,JAXA,Space Telescope,212.53,1969,193
+292,Cygnus,Northrop Grumman,Space Telescope,447.66,1961,194
+293,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1025.39,1962,194
+294,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1945.65,1998,195
+295,Saturn V,NASA,Space Telescope,1810.28,2006,196
+296,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1269.87,1998,196
+297,Titan IVB,Lockheed Martin,Shuttle,1506.93,1963,197
+298,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Satellite,318.65,2012,197
+299,HTV-X,Mitsubishi Heavy Industries,Rover,536.45,1978,198
+300,HTV Kounotori,JAXA,Space Telescope,1819.29,1966,199
+301,Atlas V,Lockheed Martin,Space Telescope,248.93,1986,199
+302,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,542.98,2005,200
+303,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,645.69,2000,201
+304,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1176.43,1988,201
+305,Delta IV Heavy,United Launch Alliance,Space Telescope,724.88,1983,202
+306,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,512.95,2005,203
+307,Photon,Rocket Lab,Space Capsule,1669.35,1996,203
+308,Cygnus,Northrop Grumman,Lander,112.55,2004,204
+309,Ariane 5 ECA,ESA,Space Capsule,135.53,1966,205
+310,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1193.59,1972,205
+311,HTV-X,Mitsubishi Heavy Industries,Space Telescope,236.41,2003,206
+312,Antares,Northrop Grumman,Space Telescope,1913.57,1973,207
+313,Soyuz FG,Roscosmos,Space Telescope,1047.2,1973,207
+314,HTV-X,Mitsubishi Heavy Industries,Space Telescope,523.63,1995,208
+315,Delta IV Heavy,United Launch Alliance,Rocket,1895.26,1961,209
+316,Atlas V,Lockheed Martin,Rover,1005.34,2004,209
+317,Orion MPCV,NASA,Lander,707.83,2002,210
+318,Orion MPCV,NASA,Space Tug,1654.02,2009,211
+319,Progress MS,Roscosmos,Space Telescope,1558.29,1990,211
+320,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,709.86,1971,212
+321,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,2007.34,1981,213
+322,New Shepard,Blue Origin,Lander,315.4,1972,213
+323,Photon,Rocket Lab,Space Telescope,571.46,2022,214
+324,Chang’e Lander,CAST,Space Telescope,1261.81,2021,215
+325,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,1685.0,2001,215
+326,Delta IV Heavy,Boeing,Space Telescope,1798.44,1979,216
+327,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1989.64,1985,217
+328,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Tug,806.48,2013,217
+329,HTV-X,Mitsubishi Heavy Industries,Shuttle,917.04,2020,218
+330,Soyuz FG,Roscosmos,Space Telescope,1755.99,2014,219
+331,PSLV,ISRO,Space Telescope,75.15,2003,219
+332,Titan IVB,Lockheed Martin,Rover,72.85,1980,220
+333,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,180.43,2005,221
+334,Chang’e Lander,CAST,Probe,1171.7,2014,221
+335,HTV-X,Mitsubishi Heavy Industries,Space Telescope,2032.68,2014,222
+336,Tianzhou,CAST,Satellite,692.72,2006,223
+337,Orion MPCV,NASA,Space Telescope,1832.95,2020,223
+338,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,777.98,1968,224
+339,Electron,Rocket Lab,Space Telescope,1836.05,1980,225
+340,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,719.01,1985,225
+341,Saturn V,NASA,Shuttle,1574.47,1977,226
+342,New Shepard,Blue Origin,Shuttle,1676.47,2013,227
+343,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1567.14,2019,227
+344,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,715.3,2012,228
+345,HTV-X,Mitsubishi Heavy Industries,Space Telescope,407.07,1998,229
+346,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,180.39,1961,229
+347,HTV-X,Mitsubishi Heavy Industries,Shuttle,1692.74,1987,230
+348,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,769.03,2016,231
+349,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1428.66,2003,231
+350,Soyuz FG,Roscosmos,Space Telescope,658.21,2009,232
+351,New Glenn,Blue Origin,Space Telescope,451.68,1997,233
+352,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,815.72,2013,233
+353,Soyuz FG,Roscosmos,Space Telescope,285.79,2015,234
+354,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1321.05,1970,235
+355,Chang’e Lander,CAST,Lander,1011.75,2022,235
+356,HTV-X,Mitsubishi Heavy Industries,Space Tug,1738.56,1977,236
+357,Dragon Capsule,SpaceX,Rocket,454.51,2017,237
+358,Progress MS,Roscosmos,Space Telescope,875.64,2005,237
+359,Vikram Lander,ISRO,Space Capsule,1271.22,1967,238
+360,HTV-X,Mitsubishi Heavy Industries,Rover,458.58,2005,239
+361,Vikram Lander,ISRO,Probe,582.83,1993,239
+362,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Probe,222.77,2010,240
+363,HTV-X,Mitsubishi Heavy Industries,Space Telescope,600.71,2021,241
+364,PSLV,ISRO,Lander,936.63,1990,241
+365,Progress MS,Roscosmos,Lander,1886.87,1966,242
+366,Space Shuttle Columbia,NASA,Space Telescope,111.21,2011,243
+367,Proton-M,Roscosmos,Space Telescope,894.44,1996,243
+368,Orion MPCV,NASA,Rover,687.92,2006,244
+369,HTV-X,Mitsubishi Heavy Industries,Space Telescope,814.93,2014,245
+370,Soyuz FG,Roscosmos,Space Tug,1119.78,2021,245
+371,Delta IV Heavy,Boeing,Satellite,118.46,1983,246
+372,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1233.07,1975,247
+373,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1566.3,1991,247
+374,ATV Jules Verne,ESA,Space Telescope,557.51,1960,248
+375,Cygnus,Northrop Grumman,Space Telescope,678.59,2009,249
+376,CST-100 Starliner,Boeing,Space Telescope,1990.46,1996,249
+377,Soyuz FG,Roscosmos,Rover,555.91,1975,250
+378,HTV-X,Mitsubishi Heavy Industries,Lander,808.66,2012,251
+379,HTV-X,Mitsubishi Heavy Industries,Space Telescope,895.54,2015,251
+380,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Probe,106.05,1990,252
+381,Falcon Heavy,SpaceX,Satellite,1066.86,1960,253
+382,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,345.68,1985,253
+383,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,1828.68,1984,254
+384,HTV-X,Mitsubishi Heavy Industries,Lander,1070.92,2024,254
+385,HTV-X,Mitsubishi Heavy Industries,Probe,226.39,1989,255
+386,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,1109.9,1998,256
+387,Vikram Lander,ISRO,Space Telescope,1773.94,2000,256
+388,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,200.97,2022,257
+389,HTV-X,Mitsubishi Heavy Industries,Rover,888.01,2002,258
+390,HTV-X,Mitsubishi Heavy Industries,Space Telescope,654.73,2020,258
+391,New Shepard,Blue Origin,Space Telescope,662.77,2024,259
+392,Titan IVB,Lockheed Martin,Probe,1705.84,1992,260
+393,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Probe,485.14,2018,260
+394,Dragon Capsule,SpaceX,Space Telescope,719.61,1975,261
+395,HTV-X,Mitsubishi Heavy Industries,Space Telescope,454.69,1980,262
+396,Rosetta,Airbus Defence and Space,Space Capsule,1242.28,1968,262
+397,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Lander,1466.63,1991,263
+398,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1241.34,2012,264
+399,Tianzhou,CAST,Shuttle,1723.84,1976,264
+400,Saturn V,NASA,Rover,54.21,2004,265
+401,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1886.21,1979,266
+402,GSLV Mk III,ISRO,Space Telescope,1825.45,1964,266
+403,Vikram Lander,ISRO,Space Capsule,1753.69,2014,267
+404,New Glenn,Blue Origin,Space Telescope,63.56,1984,268
+405,New Glenn,Blue Origin,Rocket,149.16,2001,268
+406,HTV-X,Mitsubishi Heavy Industries,Space Telescope,1635.88,2021,269
+407,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,368.96,1996,270
+408,Progress MS,Roscosmos,Rover,137.56,1991,270
+409,Orion MPCV,NASA,Rover,943.86,1983,271
+410,H-IIB,JAXA,Space Telescope,1961.2,1988,272
+411,Ariane 5 ECA,ESA,Space Telescope,280.92,1961,272
+412,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1438.38,1982,273
+413,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,696.78,1994,274
+414,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Probe,1500.1,2014,274
+415,Soyuz FG,Roscosmos,Lander,1654.04,1962,275
+416,Space Shuttle Columbia,NASA,Space Telescope,1259.82,2009,276
+417,Atlas V,Lockheed Martin,Shuttle,1941.58,1977,276
+418,Orion MPCV,NASA,Space Tug,1551.23,2012,277
+419,HTV-X,Mitsubishi Heavy Industries,Rover,1327.94,1990,278
+420,Space Shuttle Columbia,NASA,Space Telescope,1218.43,2012,278
+421,Space Shuttle Columbia,NASA,Space Telescope,161.79,2021,279
+422,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,530.46,1997,280
+423,Atlas V,Lockheed Martin,Space Telescope,924.31,1978,280
+424,Saturn V,NASA,Space Telescope,1931.48,1968,281
+425,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,399.19,2016,282
+426,Chang’e Lander,CAST,Shuttle,1319.31,2021,282
+427,HTV-X,Mitsubishi Heavy Industries,Rover,983.62,1999,283
+428,Soyuz FG,Roscosmos,Space Capsule,71.96,1987,284
+429,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,417.97,1985,284
+430,HTV-X,Mitsubishi Heavy Industries,Probe,1036.48,1984,285
+431,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rover,734.54,2021,286
+432,Delta IV Heavy,United Launch Alliance,Rover,1753.63,2011,286
+433,Ariane 6,ESA,Rover,434.32,2011,287
+434,HTV-X,Mitsubishi Heavy Industries,Space Telescope,874.59,1993,288
+435,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,471.04,2010,288
+436,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Shuttle,1575.12,2012,289
+437,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,528.91,2022,290
+438,Rosetta,Airbus Defence and Space,Space Capsule,934.76,2018,290
+439,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Rocket,797.44,1960,291
+440,Vikram Lander,ISRO,Lander,509.68,1996,292
+441,Titan IVB,Lockheed Martin,Space Telescope,949.47,1974,292
+442,Orion MPCV,NASA,Probe,1188.07,2015,293
+443,H-IIB,JAXA,Probe,194.89,2013,294
+444,Atlas V 401,United Launch Alliance,Satellite,697.18,2010,294
+445,H-II Transfer Vehicle,Mitsubishi Heavy Industries,Space Telescope,1982.34,1962,295
+446,MetOp,Airbus Defence and Space,Space Telescope,1213.96,1984,296
+447,HTV-X,Mitsubishi Heavy Industries,Space Telescope,928.92,1965,296
+448,Antares,Northrop Grumman,Space Telescope,1320.88,1979,297
+449,Titan IVB,Lockheed Martin,Satellite,685.57,2014,298
+450,Generic Spacecraft - 299-1,Multiple Contractors,Space Tug,1751.58,1986,298
+451,PSLV - 300-1,ISRO,Rocket,1129.75,1982,299
+452,Dragon Capsule - 301-1,SpaceX,Shuttle,1404.09,2013,300
+453,Proton-M - 302-1,Roscosmos,Space Tug,1380.96,2009,300
+454,Saturn V - 303-1,NASA,Space Tug,1385.44,1998,301
+455,Ariane 6 - 304-1,ESA,Rocket,742.38,1974,302
+456,Ariane 6 - 304-2,ESA,Space Capsule,1779.92,2003,302
+457,Chang’e Lander - 305-1,CAST,Rover,1423.43,1964,303
+458,Chang’e Lander - 305-2,CAST,Rover,781.11,1998,304
+459,HTV Kounotori - 306-1,JAXA,Space Tug,1475.2,1984,304
+460,H-IIA - 306-2,JAXA,Satellite,1891.46,2000,305
+461,New Shepard - 307-1,Blue Origin,Space Capsule,85.74,1968,306
+462,New Glenn - 307-2,Blue Origin,Space Tug,347.04,2016,306
+463,Vikram Lander - 308-1,ISRO,Rover,807.14,2011,307
+464,Vikram Lander - 308-2,ISRO,Rover,1844.93,1979,308
+465,Photon - 309-1,Rocket Lab,Space Tug,1399.82,1996,308
+466,Generic Spacecraft - 310-1,Multiple Contractors,Shuttle,1952.55,1989,309
+467,Generic Spacecraft - 310-2,Multiple Contractors,Space Tug,248.97,2021,309
+468,Generic Spacecraft - 311-1,Multiple Contractors,Rover,286.33,2019,310
+469,Chang’e Lander - 312-1,CAST,Space Tug,286.02,1994,311
+470,ATV Jules Verne - 313-1,ESA,Space Tug,1334.36,1992,311
+471,PSLV - 314-1,ISRO,Rocket,190.49,2003,312
+472,Falcon 9 - 315-1,SpaceX,Space Tug,1545.18,1966,313
+473,ATV Jules Verne - 316-1,ESA,Space Capsule,1204.81,2024,313
+474,Ariane 5 - 316-2,ESA,Space Capsule,1669.59,2003,314
+475,Proton-M - 317-1,Roscosmos,Rocket,810.55,1981,315
+476,Progress MS - 317-2,Roscosmos,Rocket,1182.73,1968,315
+477,Generic Spacecraft - 318-1,Multiple Contractors,Satellite,1993.4,1975,316
+478,Generic Spacecraft - 318-2,Multiple Contractors,Shuttle,1931.43,1971,317
+479,Generic Spacecraft - 319-1,Multiple Contractors,Lander,179.5,2010,317
+480,Generic Spacecraft - 319-2,Multiple Contractors,Rocket,1564.71,2019,318
+481,Generic Spacecraft - 320-1,Multiple Contractors,Space Tug,597.69,1996,319
+482,Generic Spacecraft - 320-2,Multiple Contractors,Lander,430.42,1980,319
+483,Generic Spacecraft - 321-1,Multiple Contractors,Satellite,56.3,1961,320
+484,Generic Spacecraft - 321-2,Multiple Contractors,Satellite,1374.46,1979,321
+485,Generic Spacecraft - 322-1,Multiple Contractors,Lander,941.79,1997,321
+486,Generic Spacecraft - 322-2,Multiple Contractors,Space Tug,1944.88,1981,322
+487,Generic Spacecraft - 323-1,Multiple Contractors,Rover,1403.51,2010,323
+488,Generic Spacecraft - 324-1,Multiple Contractors,Space Tug,713.14,2021,323
+489,Generic Spacecraft - 324-2,Multiple Contractors,Space Tug,741.4,1997,324
+490,Generic Spacecraft - 325-1,Multiple Contractors,Satellite,280.02,1989,325
+491,Generic Spacecraft - 326-1,Multiple Contractors,Rover,1825.81,1992,325
+492,Generic Spacecraft - 326-2,Multiple Contractors,Shuttle,1569.8,1981,326
+493,Generic Spacecraft - 327-1,Multiple Contractors,Rocket,753.39,1964,327
+494,Generic Spacecraft - 328-1,Multiple Contractors,Space Tug,1091.93,1973,327
+495,Generic Spacecraft - 328-2,Multiple Contractors,Probe,148.66,1988,328
+496,Generic Spacecraft - 329-1,Multiple Contractors,Space Tug,659.37,1989,329
+497,Generic Spacecraft - 329-2,Multiple Contractors,Rocket,1876.51,1989,329
+498,Generic Spacecraft - 330-1,Multiple Contractors,Space Tug,1799.68,2019,330
+499,Generic Spacecraft - 331-1,Multiple Contractors,Rocket,1398.95,1996,331
+500,Generic Spacecraft - 331-2,Multiple Contractors,Space Tug,1467.29,1979,331
+501,Generic Spacecraft - 332-1,Multiple Contractors,Lander,119.3,2001,332
+502,Generic Spacecraft - 332-2,Multiple Contractors,Space Tug,100.24,2001,333
+503,Generic Spacecraft - 333-1,Multiple Contractors,Lander,68.14,2012,333
+504,Generic Spacecraft - 334-1,Multiple Contractors,Space Tug,1447.24,1981,334
+505,Generic Spacecraft - 335-1,Multiple Contractors,Shuttle,1440.07,2020,335
+506,Generic Spacecraft - 335-2,Multiple Contractors,Lander,672.02,1983,335
+507,Generic Spacecraft - 336-1,Multiple Contractors,Space Tug,1692.06,2022,336
+508,Generic Spacecraft - 337-1,Multiple Contractors,Rocket,1347.69,1974,337
+509,Generic Spacecraft - 337-2,Multiple Contractors,Rover,1315.03,2023,337
+510,Generic Spacecraft - 338-1,Multiple Contractors,Space Tug,975.21,1994,338
+511,Generic Spacecraft - 338-2,Multiple Contractors,Space Tug,765.88,1965,339
+512,Generic Spacecraft - 339-1,Multiple Contractors,Lander,1770.05,2015,339
+513,Generic Spacecraft - 339-2,Multiple Contractors,Rover,1890.03,1973,340
+514,Generic Spacecraft - 340-1,Multiple Contractors,Space Tug,547.3,2004,341
+515,Generic Spacecraft - 340-2,Multiple Contractors,Satellite,1082.21,1961,341
+516,Generic Spacecraft - 341-1,Multiple Contractors,Rocket,170.56,1999,342
+517,Generic Spacecraft - 342-1,Multiple Contractors,Lander,209.08,1977,343
+518,Generic Spacecraft - 342-2,Multiple Contractors,Rocket,1243.38,1971,343
+519,Generic Spacecraft - 343-1,Multiple Contractors,Satellite,1665.12,1998,344
+520,Generic Spacecraft - 343-2,Multiple Contractors,Space Tug,1071.87,1965,345
+521,Generic Spacecraft - 344-1,Multiple Contractors,Space Tug,1190.45,1993,345
+522,Generic Spacecraft - 344-2,Multiple Contractors,Shuttle,1574.99,1999,346
+523,Generic Spacecraft - 345-1,Multiple Contractors,Space Tug,301.38,2017,347
+524,Generic Spacecraft - 345-2,Multiple Contractors,Lander,630.36,1964,347
+525,Generic Spacecraft - 346-1,Multiple Contractors,Lander,1305.56,2017,348
+526,Generic Spacecraft - 347-1,Multiple Contractors,Space Tug,1510.22,1979,349
+527,Generic Spacecraft - 348-1,Multiple Contractors,Rover,241.97,2023,349
+528,Generic Spacecraft - 349-1,Multiple Contractors,Space Tug,512.29,2003,350
+529,Generic Spacecraft - 349-2,Multiple Contractors,Rocket,602.45,1979,351
+530,Generic Spacecraft - 350-1,Multiple Contractors,Space Tug,522.8,1967,351
+531,Generic Spacecraft - 351-1,Multiple Contractors,Shuttle,661.37,2006,352
+532,Generic Spacecraft - 352-1,Multiple Contractors,Space Tug,72.63,2002,353
+533,Generic Spacecraft - 353-1,Multiple Contractors,Rover,1655.46,2011,353
+534,Generic Spacecraft - 354-1,Multiple Contractors,Probe,1785.14,1964,354
+535,Generic Spacecraft - 354-2,Multiple Contractors,Shuttle,2038.82,1965,355
+536,Generic Spacecraft - 355-1,Multiple Contractors,Shuttle,1910.82,1966,355
+537,Generic Spacecraft - 356-1,Multiple Contractors,Space Tug,1938.89,1992,356
+538,Generic Spacecraft - 356-2,Multiple Contractors,Space Tug,1425.98,2014,357
+539,Generic Spacecraft - 357-1,Multiple Contractors,Space Capsule,671.64,2016,357
+540,Generic Spacecraft - 358-1,Multiple Contractors,Space Tug,383.63,2001,358
+541,Generic Spacecraft - 358-2,Multiple Contractors,Space Tug,1879.34,1978,359
+542,Generic Spacecraft - 359-1,Multiple Contractors,Shuttle,354.18,2013,359
+543,Generic Spacecraft - 359-2,Multiple Contractors,Probe,1560.24,2014,360
+544,Generic Spacecraft - 360-1,Multiple Contractors,Rover,706.16,2003,361
+545,Generic Spacecraft - 360-2,Multiple Contractors,Shuttle,494.8,2017,361
+546,Generic Spacecraft - 361-1,Multiple Contractors,Space Tug,968.72,1999,362
+547,Generic Spacecraft - 362-1,Multiple Contractors,Shuttle,240.59,2002,363
+548,Generic Spacecraft - 362-2,Multiple Contractors,Space Tug,1494.84,1974,363
+549,Generic Spacecraft - 363-1,Multiple Contractors,Rocket,392.65,1969,364
+550,Generic Spacecraft - 363-2,Multiple Contractors,Shuttle,504.41,2010,364
+551,Generic Spacecraft - 364-1,Multiple Contractors,Space Tug,488.0,1976,365
+552,Generic Spacecraft - 364-2,Multiple Contractors,Space Tug,192.4,1993,366
+553,Generic Spacecraft - 365-1,Multiple Contractors,Space Tug,72.63,1971,366
+554,Generic Spacecraft - 366-1,Multiple Contractors,Satellite,1376.45,1976,367
+555,Generic Spacecraft - 366-2,Multiple Contractors,Probe,468.14,1976,368
+556,Generic Spacecraft - 367-1,Multiple Contractors,Space Tug,1148.3,2021,368
+557,Generic Spacecraft - 367-2,Multiple Contractors,Rocket,1715.97,1984,369
+558,Generic Spacecraft - 368-1,Multiple Contractors,Lander,1417.23,1982,370
+559,Generic Spacecraft - 369-1,Multiple Contractors,Rocket,1401.29,1993,370
+560,Generic Spacecraft - 369-2,Multiple Contractors,Rover,188.1,2018,371
+561,Generic Spacecraft - 370-1,Multiple Contractors,Space Tug,654.57,2015,372
+562,Generic Spacecraft - 371-1,Multiple Contractors,Space Tug,319.08,1985,372
+563,Generic Spacecraft - 371-2,Multiple Contractors,Satellite,543.43,2019,373
+564,Generic Spacecraft - 372-1,Multiple Contractors,Space Tug,1592.15,1984,374
+565,Generic Spacecraft - 373-1,Multiple Contractors,Space Tug,1417.34,1966,374
+566,Generic Spacecraft - 374-1,Multiple Contractors,Probe,1082.46,1964,375
+567,Generic Spacecraft - 375-1,Multiple Contractors,Space Tug,699.38,2002,376
+568,Generic Spacecraft - 375-2,Multiple Contractors,Space Capsule,620.62,1979,376
+569,Generic Spacecraft - 376-1,Multiple Contractors,Rover,85.0,2018,377
+570,Generic Spacecraft - 377-1,Multiple Contractors,Lander,210.2,1986,378
+571,Generic Spacecraft - 377-2,Multiple Contractors,Space Tug,1974.96,1993,378
+572,Generic Spacecraft - 378-1,Multiple Contractors,Shuttle,191.63,1986,379
+573,Generic Spacecraft - 379-1,Multiple Contractors,Space Tug,333.96,1961,380
+574,Generic Spacecraft - 380-1,Multiple Contractors,Space Tug,1241.97,1997,380
+575,Generic Spacecraft - 381-1,Multiple Contractors,Lander,1551.8,2019,381
+576,Generic Spacecraft - 381-2,Multiple Contractors,Space Tug,288.35,1964,382
+577,Generic Spacecraft - 382-1,Multiple Contractors,Space Tug,125.15,2001,382
+578,Generic Spacecraft - 382-2,Multiple Contractors,Probe,1781.37,1973,383
+579,Generic Spacecraft - 383-1,Multiple Contractors,Space Tug,942.92,2022,384
+580,Generic Spacecraft - 383-2,Multiple Contractors,Rocket,1527.27,2020,384
+581,Generic Spacecraft - 384-1,Multiple Contractors,Space Capsule,1464.29,2022,385
+582,Generic Spacecraft - 385-1,Multiple Contractors,Space Capsule,1957.24,2021,386
+583,Generic Spacecraft - 386-1,Multiple Contractors,Rocket,1063.15,1988,386
+584,Generic Spacecraft - 387-1,Multiple Contractors,Space Tug,1299.47,1979,387
+585,Generic Spacecraft - 388-1,Multiple Contractors,Lander,1724.89,1988,388
+586,Generic Spacecraft - 388-2,Multiple Contractors,Shuttle,353.23,1967,388
+587,Generic Spacecraft - 389-1,Multiple Contractors,Rover,877.21,1992,389
+588,Generic Spacecraft - 389-2,Multiple Contractors,Rover,420.92,1972,390
+589,Generic Spacecraft - 390-1,Multiple Contractors,Probe,1121.67,1996,390
+590,Generic Spacecraft - 391-1,Multiple Contractors,Satellite,1975.49,1992,391
+591,Generic Spacecraft - 391-2,Multiple Contractors,Rover,806.91,1979,392
+592,Generic Spacecraft - 392-1,Multiple Contractors,Space Tug,63.57,2011,392
+593,Generic Spacecraft - 392-2,Multiple Contractors,Satellite,1364.09,1975,393
+594,Generic Spacecraft - 393-1,Multiple Contractors,Shuttle,833.58,1998,394
+595,Generic Spacecraft - 393-2,Multiple Contractors,Space Capsule,1031.76,2000,394
+596,Generic Spacecraft - 394-1,Multiple Contractors,Lander,1494.59,1970,395
+597,Generic Spacecraft - 394-2,Multiple Contractors,Space Tug,1653.82,1969,396
+598,Generic Spacecraft - 395-1,Multiple Contractors,Space Capsule,409.16,1983,396
+599,Generic Spacecraft - 396-1,Multiple Contractors,Space Tug,445.54,1964,397
+600,Generic Spacecraft - 397-1,Multiple Contractors,Space Tug,104.06,2005,398
+601,Generic Spacecraft - 397-2,Multiple Contractors,Space Tug,832.02,1986,398
+602,Generic Spacecraft - 398-1,Multiple Contractors,Rocket,699.07,1978,399
+603,Generic Spacecraft - 398-2,Multiple Contractors,Space Tug,342.13,1961,400
+604,Generic Spacecraft - 399-1,Multiple Contractors,Rocket,172.84,2000,400
+605,Generic Spacecraft - 399-2,Multiple Contractors,Space Tug,702.55,2022,401
+606,Generic Spacecraft - 400-1,Multiple Contractors,Satellite,703.04,1966,402
+607,Generic Spacecraft - 401-1,Multiple Contractors,Space Tug,1657.4,1986,402
+608,Generic Spacecraft - 401-2,Multiple Contractors,Shuttle,1956.33,1997,403
+609,Generic Spacecraft - 402-1,Multiple Contractors,Rocket,477.36,2001,404
+610,Generic Spacecraft - 403-1,Multiple Contractors,Space Tug,1427.9,2023,404
+611,Generic Spacecraft - 404-1,Multiple Contractors,Rocket,846.69,1987,405
+612,Generic Spacecraft - 404-2,Multiple Contractors,Shuttle,300.74,2023,406
+613,Generic Spacecraft - 405-1,Multiple Contractors,Shuttle,1621.12,1970,406
+614,Generic Spacecraft - 405-2,Multiple Contractors,Space Tug,1122.64,2005,407
+615,Generic Spacecraft - 406-1,Multiple Contractors,Shuttle,1497.31,1994,408
+616,Generic Spacecraft - 406-2,Multiple Contractors,Space Tug,1828.24,2015,408
+617,Generic Spacecraft - 407-1,Multiple Contractors,Space Tug,51.33,1995,409
+618,Generic Spacecraft - 407-2,Multiple Contractors,Rover,329.38,2019,410
+619,Generic Spacecraft - 408-1,Multiple Contractors,Probe,188.53,1980,410
+620,Generic Spacecraft - 409-1,Multiple Contractors,Rocket,398.19,1989,411
+621,Generic Spacecraft - 409-2,Multiple Contractors,Rover,968.31,2003,412
+622,Generic Spacecraft - 410-1,Multiple Contractors,Rover,655.71,1994,412
+623,Generic Spacecraft - 411-1,Multiple Contractors,Space Tug,363.54,2014,413
+624,Generic Spacecraft - 411-2,Multiple Contractors,Space Tug,1892.32,1981,414
+625,Generic Spacecraft - 412-1,Multiple Contractors,Space Tug,441.8,1969,414
+626,Generic Spacecraft - 413-1,Multiple Contractors,Rocket,1183.54,2017,415
+627,Generic Spacecraft - 414-1,Multiple Contractors,Shuttle,282.78,2022,416
+628,Generic Spacecraft - 414-2,Multiple Contractors,Probe,1035.68,1971,416
+629,Generic Spacecraft - 415-1,Multiple Contractors,Shuttle,1317.67,1981,417
+630,Generic Spacecraft - 415-2,Multiple Contractors,Rover,1821.2,2006,418
+631,Generic Spacecraft - 416-1,Multiple Contractors,Space Tug,1025.12,2016,418
+632,Generic Spacecraft - 416-2,Multiple Contractors,Rocket,919.03,1968,419
+633,Generic Spacecraft - 417-1,Multiple Contractors,Rocket,1096.29,1968,420
+634,Generic Spacecraft - 417-2,Multiple Contractors,Rover,571.13,1981,420
+635,Generic Spacecraft - 418-1,Multiple Contractors,Space Tug,2006.36,1998,421
+636,Generic Spacecraft - 418-2,Multiple Contractors,Shuttle,1488.42,2000,421
+637,Generic Spacecraft - 419-1,Multiple Contractors,Probe,502.82,2007,422
+638,Generic Spacecraft - 419-2,Multiple Contractors,Shuttle,1692.84,2008,423
+639,Generic Spacecraft - 420-1,Multiple Contractors,Rover,1071.4,2018,423
+640,Generic Spacecraft - 420-2,Multiple Contractors,Space Tug,372.58,2005,424
+641,Generic Spacecraft - 421-1,Multiple Contractors,Space Tug,770.41,2022,425
+642,Generic Spacecraft - 422-1,Multiple Contractors,Space Tug,1429.0,2020,425
+643,Generic Spacecraft - 423-1,Multiple Contractors,Rocket,221.01,2000,426
+644,Generic Spacecraft - 423-2,Multiple Contractors,Lander,1100.72,2008,427
+645,Generic Spacecraft - 424-1,Multiple Contractors,Rover,56.56,2013,427
+646,Generic Spacecraft - 424-2,Multiple Contractors,Shuttle,1178.89,1960,428
+647,Generic Spacecraft - 425-1,Multiple Contractors,Space Capsule,190.34,2002,429
+648,Generic Spacecraft - 425-2,Multiple Contractors,Satellite,1406.5,2020,429
+649,Generic Spacecraft - 426-1,Multiple Contractors,Rocket,1465.55,2006,430
+650,Generic Spacecraft - 427-1,Multiple Contractors,Space Tug,375.73,1972,431
+651,Generic Spacecraft - 428-1,Multiple Contractors,Space Tug,362.96,2015,431
+652,Generic Spacecraft - 428-2,Multiple Contractors,Space Tug,1642.76,1998,432
+653,Generic Spacecraft - 429-1,Multiple Contractors,Space Tug,580.12,1982,433
+654,Generic Spacecraft - 430-1,Multiple Contractors,Space Tug,1243.15,2009,433
+655,Generic Spacecraft - 431-1,Multiple Contractors,Space Tug,327.61,2012,434
+656,Generic Spacecraft - 431-2,Multiple Contractors,Rover,403.39,1983,435
+657,Generic Spacecraft - 432-1,Multiple Contractors,Rocket,1077.02,1984,435
+658,Generic Spacecraft - 433-1,Multiple Contractors,Rover,1506.98,1996,436
+659,Generic Spacecraft - 434-1,Multiple Contractors,Rocket,415.71,1988,437
+660,Generic Spacecraft - 434-2,Multiple Contractors,Rover,1314.2,2002,437
+661,Generic Spacecraft - 435-1,Multiple Contractors,Rover,296.15,1980,438
+662,Generic Spacecraft - 436-1,Multiple Contractors,Rocket,1352.92,1980,439
+663,Generic Spacecraft - 436-2,Multiple Contractors,Rocket,1510.58,1970,439
+664,Generic Spacecraft - 437-1,Multiple Contractors,Space Tug,1658.19,2000,440
+665,Generic Spacecraft - 438-1,Multiple Contractors,Space Tug,1822.33,2003,441
+666,Generic Spacecraft - 438-2,Multiple Contractors,Lander,1324.75,2007,441
+667,Generic Spacecraft - 439-1,Multiple Contractors,Lander,566.03,1996,442
+668,Generic Spacecraft - 440-1,Multiple Contractors,Rocket,977.9,1998,443
+669,Generic Spacecraft - 441-1,Multiple Contractors,Rocket,1791.52,2016,443
+670,Generic Spacecraft - 442-1,Multiple Contractors,Rover,1615.95,1991,444
+671,Generic Spacecraft - 443-1,Multiple Contractors,Space Tug,560.61,1995,445
+672,Generic Spacecraft - 444-1,Multiple Contractors,Space Tug,1026.84,1997,445
+673,Generic Spacecraft - 445-1,Multiple Contractors,Space Tug,587.54,1997,446
+674,Generic Spacecraft - 445-2,Multiple Contractors,Lander,591.81,1970,447
+675,Generic Spacecraft - 446-1,Multiple Contractors,Rocket,644.92,1965,447
+676,Generic Spacecraft - 447-1,Multiple Contractors,Shuttle,156.44,1995,448
+677,Generic Spacecraft - 448-1,Multiple Contractors,Satellite,526.05,2021,449
+678,Generic Spacecraft - 448-2,Multiple Contractors,Lander,570.4,2013,449
+679,Generic Spacecraft - 449-1,Multiple Contractors,Space Capsule,943.46,2002,450
+680,Generic Spacecraft - 449-2,Multiple Contractors,Space Tug,1289.25,2022,451
+681,Generic Spacecraft - 450-1,Multiple Contractors,Space Tug,1229.54,1964,451
+682,Generic Spacecraft - 451-1,Multiple Contractors,Lander,540.42,1971,452
+683,Generic Spacecraft - 451-2,Multiple Contractors,Lander,687.13,1995,453
+684,Generic Spacecraft - 452-1,Multiple Contractors,Rocket,209.56,1980,453
+685,Generic Spacecraft - 453-1,Multiple Contractors,Space Tug,824.34,2010,454
+686,Generic Spacecraft - 454-1,Multiple Contractors,Space Tug,1529.91,1986,455
+687,Generic Spacecraft - 455-1,Multiple Contractors,Space Tug,728.9,2009,455
+688,Generic Spacecraft - 456-1,Multiple Contractors,Space Tug,1359.33,1973,456
+689,Generic Spacecraft - 457-1,Multiple Contractors,Lander,1209.15,1986,457
+690,Generic Spacecraft - 458-1,Multiple Contractors,Space Tug,607.76,2022,457
+691,Generic Spacecraft - 458-2,Multiple Contractors,Space Tug,1878.31,1991,458
+692,Generic Spacecraft - 459-1,Multiple Contractors,Rover,1367.31,1996,459
+693,Generic Spacecraft - 460-1,Multiple Contractors,Space Tug,490.92,2022,459
+694,Generic Spacecraft - 460-2,Multiple Contractors,Lander,156.91,1998,460
+695,Generic Spacecraft - 461-1,Multiple Contractors,Rover,1402.35,2004,461
+696,Generic Spacecraft - 461-2,Multiple Contractors,Shuttle,1020.37,2013,461
+697,Generic Spacecraft - 462-1,Multiple Contractors,Space Tug,203.45,1981,462
+698,Generic Spacecraft - 463-1,Multiple Contractors,Space Tug,352.25,1998,463
+699,Generic Spacecraft - 463-2,Multiple Contractors,Rover,1622.09,1988,463
+700,Generic Spacecraft - 464-1,Multiple Contractors,Shuttle,104.55,1966,464
+701,Generic Spacecraft - 465-1,Multiple Contractors,Space Tug,1570.25,1979,465
+702,Generic Spacecraft - 466-1,Multiple Contractors,Shuttle,382.66,1988,465
+703,Generic Spacecraft - 467-1,Multiple Contractors,Rocket,368.92,1991,466
+704,Generic Spacecraft - 467-2,Multiple Contractors,Rover,1568.38,1988,467
+705,Generic Spacecraft - 468-1,Multiple Contractors,Satellite,852.19,1967,467
+706,Generic Spacecraft - 468-2,Multiple Contractors,Satellite,535.25,2007,468
+707,Generic Spacecraft - 469-1,Multiple Contractors,Space Tug,365.08,1964,469
+708,Generic Spacecraft - 470-1,Multiple Contractors,Shuttle,1414.8,1985,469
+709,Generic Spacecraft - 470-2,Multiple Contractors,Probe,860.43,1962,470
+710,Generic Spacecraft - 471-1,Multiple Contractors,Lander,173.59,1978,471
+711,Generic Spacecraft - 471-2,Multiple Contractors,Satellite,1861.86,1972,471
+712,Generic Spacecraft - 472-1,Multiple Contractors,Satellite,310.51,1960,472
+713,Generic Spacecraft - 472-2,Multiple Contractors,Shuttle,1554.36,1977,473
+714,Generic Spacecraft - 473-1,Multiple Contractors,Lander,832.1,1993,473
+715,Generic Spacecraft - 473-2,Multiple Contractors,Space Capsule,88.14,1992,474
+716,Generic Spacecraft - 474-1,Multiple Contractors,Rover,298.45,1982,475
+717,Generic Spacecraft - 474-2,Multiple Contractors,Satellite,1343.44,2006,475
+718,Generic Spacecraft - 475-1,Multiple Contractors,Shuttle,1384.92,1993,476
+719,Generic Spacecraft - 476-1,Multiple Contractors,Lander,1372.28,2012,476
+720,Generic Spacecraft - 476-2,Multiple Contractors,Probe,1121.34,1999,477
+721,Generic Spacecraft - 477-1,Multiple Contractors,Probe,1045.24,1986,478
+722,Generic Spacecraft - 477-2,Multiple Contractors,Lander,1179.76,2019,478
+723,Generic Spacecraft - 478-1,Multiple Contractors,Satellite,512.2,1975,479
+724,Generic Spacecraft - 479-1,Multiple Contractors,Space Tug,98.27,2016,480
+725,Generic Spacecraft - 480-1,Multiple Contractors,Lander,1162.11,1964,480
+726,Generic Spacecraft - 480-2,Multiple Contractors,Rocket,187.12,1967,481
+727,Generic Spacecraft - 481-1,Multiple Contractors,Space Tug,651.15,1986,482
+728,Generic Spacecraft - 482-1,Multiple Contractors,Rover,1392.0,1963,482
+729,Generic Spacecraft - 482-2,Multiple Contractors,Shuttle,287.27,1971,483
+730,Generic Spacecraft - 483-1,Multiple Contractors,Space Tug,641.94,2010,484
+731,Generic Spacecraft - 484-1,Multiple Contractors,Rover,1542.36,1980,484
+732,Generic Spacecraft - 484-2,Multiple Contractors,Probe,1147.57,1969,485
+733,Generic Spacecraft - 485-1,Multiple Contractors,Shuttle,517.82,2000,486
+734,Generic Spacecraft - 485-2,Multiple Contractors,Space Tug,1321.26,1973,486
+735,Generic Spacecraft - 486-1,Multiple Contractors,Space Tug,143.62,1960,487
+736,Generic Spacecraft - 486-2,Multiple Contractors,Space Tug,184.76,2024,488
+737,Generic Spacecraft - 487-1,Multiple Contractors,Probe,901.49,1985,488
+738,Generic Spacecraft - 487-2,Multiple Contractors,Satellite,509.36,1982,489
+739,Generic Spacecraft - 488-1,Multiple Contractors,Space Tug,1054.59,1963,490
+740,Generic Spacecraft - 488-2,Multiple Contractors,Probe,1201.62,1987,490
+741,Generic Spacecraft - 489-1,Multiple Contractors,Satellite,1495.76,1980,491
+742,Generic Spacecraft - 489-2,Multiple Contractors,Space Tug,627.79,1999,492
+743,Generic Spacecraft - 490-1,Multiple Contractors,Lander,304.51,2011,492
+744,Generic Spacecraft - 491-1,Multiple Contractors,Space Tug,676.14,1974,493
+745,Generic Spacecraft - 491-2,Multiple Contractors,Space Tug,710.47,1991,494
+746,Generic Spacecraft - 492-1,Multiple Contractors,Lander,1608.42,2017,494
+747,Generic Spacecraft - 493-1,Multiple Contractors,Shuttle,813.0,1972,495
+748,Generic Spacecraft - 493-2,Multiple Contractors,Probe,932.96,2003,496
+749,Generic Spacecraft - 494-1,Multiple Contractors,Space Tug,600.86,2005,496
+750,Generic Spacecraft - 494-2,Multiple Contractors,Space Tug,295.26,2024,497
+751,Generic Spacecraft - 495-1,Multiple Contractors,Space Tug,354.86,1969,498
+752,Generic Spacecraft - 495-2,Multiple Contractors,Space Tug,1389.81,2017,498
+753,Generic Spacecraft - 496-1,Multiple Contractors,Space Tug,1649.17,1995,499
+754,Generic Spacecraft - 496-2,Multiple Contractors,Lander,1208.64,2018,500
+755,Generic Spacecraft - 497-1,Multiple Contractors,Space Tug,290.18,2012,500
+756,Generic Spacecraft - 497-2,Multiple Contractors,Space Tug,392.74,2005,501
+757,Generic Spacecraft - 498-1,Multiple Contractors,Rover,469.16,1968,502
+758,Generic Spacecraft - 498-2,Multiple Contractors,Space Tug,1378.38,1962,502
+759,Generic Spacecraft - 499-1,Multiple Contractors,Lander,821.88,1993,503
+760,Generic Spacecraft - 499-2,Multiple Contractors,Rover,153.57,1974,504
